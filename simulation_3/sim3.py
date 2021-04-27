@@ -21,6 +21,7 @@ NEG_SQRT_3_div_2 = (-1) * (math.sqrt(3) / 2)
 UE_NUM = 100
 SCALE = 250 / SQRT_3_div_2
 
+
 class Map():
     def __init__(self):
         self._cluster = []
@@ -184,7 +185,7 @@ class Ue():
             self._y += y_speed
             self._time -= 1
     
-    def change_bs(self, time, count):
+    def change_bs(self, time, count, events):
         max_sinr = -1 * np.inf
         max_bs = self._bs
         for cluster in ma.cluster:
@@ -199,8 +200,8 @@ class Ue():
         self_inf = all_inf(self._ma, self.bs) - db_to_int(up_rxp(self_dis))
         self_sinr = Sinr(up_rxp(self_dis), self_inf)
         if max_sinr > self_sinr + 10:
-            print(f"Num : {self._num:3}, time : {time:3}, before : {self._bs.num:2}, after : {max_bs.num:2}")
-            print(f"before : {self_sinr}, after : {max_sinr}")
+            print(f"Num : {self._num:3}, Time : {time:3}, Before : {self._bs.num:2}, After : {max_bs.num:2}, Before SINR : {self_sinr}, After SINR : {max_sinr}")
+            events[f'{self._num}'].append(f"Num : {self._num:3}, Time : {time:3}, Before : {self._bs.num:2}, After : {max_bs.num:2}")
             self._bs.ue.remove(self)
             self._bs = max_bs
             self._bs.add_ue(self)
@@ -272,14 +273,13 @@ if __name__ == "__main__":
     cc.gen_ue()
     cc.plot_map()
     count = 0
-    x = []
-    y = []
+    Handoff_events = {}
+    for i in range(UE_NUM):
+      Handoff_events[f'{i+1}'] = []
     for time in range(1, 901):
         for cluster in ma.cluster:
             for bs in cluster.bs:
                 for ue in bs.ue:
                     ue.update_loc()
-                    count = ue.change_bs(time, count)
+                    count = ue.change_bs(time, count, Handoff_events)
     print(f"Total handoff {count} times.")
-
-
