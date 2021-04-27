@@ -1,7 +1,6 @@
-import numpy as np
 import matplotlib.pyplot as plt
 import random
-import math
+from math import sqrt, log10, pi, cos, sin
 
 
 BW = 10E6
@@ -14,10 +13,10 @@ B_H = 51.5
 UE_H = 1.5
 BOLTZ_CONST = 1.38E-23
 EX = 4
-SQRT_3 = math.sqrt(3)
-SQRT_3_div_2 = (math.sqrt(3) / 2)
-NEG_SQRT_3 = (-1) * math.sqrt(3)
-NEG_SQRT_3_div_2 = (-1) * (math.sqrt(3) / 2)
+SQRT_3 = sqrt(3)
+SQRT_3_div_2 = (sqrt(3) / 2)
+NEG_SQRT_3 = (-1) * sqrt(3)
+NEG_SQRT_3_div_2 = (-1) * (sqrt(3) / 2)
 UE_NUM = 100
 SCALE = 250 / SQRT_3_div_2
 
@@ -173,30 +172,30 @@ class Ue():
     def update_loc(self):
         if self._time == 0:
             self.get_direction()
-            x_speed = self._speed * math.cos(self._angle) 
-            y_speed = self._speed * math.sin(self._angle)
+            x_speed = self._speed * cos(self._angle) 
+            y_speed = self._speed * sin(self._angle)
             self._x += x_speed
             self._y += y_speed
             self._time -= 1
         else:
-            x_speed = self._speed * math.cos(self._angle) 
-            y_speed = self._speed * math.sin(self._angle)
+            x_speed = self._speed * cos(self._angle) 
+            y_speed = self._speed * sin(self._angle)
             self._x += x_speed
             self._y += y_speed
             self._time -= 1
     
     def change_bs(self, time, count, events):
-        max_sinr = -1 * np.inf
+        max_sinr = -1 * math.inf
         max_bs = self._bs
         for cluster in ma.cluster:
             for bs in cluster.bs:
-                dis = math.sqrt((self.x - bs.x) ** 2 + (self.y - bs.y) ** 2)
+                dis = sqrt((self.x - bs.x) ** 2 + (self.y - bs.y) ** 2)
                 inf = all_inf(self._ma, bs) - db_to_int(up_rxp(dis))
                 sinr = Sinr(up_rxp(dis), inf)
                 if sinr > max_sinr:
                     max_sinr = sinr
                     max_bs = bs
-        self_dis = math.sqrt((self.x - self.bs.x) ** 2 + (self.y - self.bs.y) ** 2)
+        self_dis = sqrt((self.x - self.bs.x) ** 2 + (self.y - self.bs.y) ** 2)
         self_inf = all_inf(self._ma, self.bs) - db_to_int(up_rxp(self_dis))
         self_sinr = Sinr(up_rxp(self_dis), self_inf)
         if max_sinr > self_sinr + 10:
@@ -214,7 +213,7 @@ def Sinr(power_db, inf):
     noise = BOLTZ_CONST * TEMP * BW
     p = db_to_int(power_db)
     s = p / (noise + inf)
-    return 10 * math.log10(s)
+    return 10 * log10(s)
 
 
 
@@ -223,7 +222,7 @@ def all_inf(ma, Bs):
     for cluster in ma.cluster:
         for bs in cluster.bs:
             for ues in bs.ue:
-                dis = math.sqrt((ues.x - Bs.x) ** 2 + (ues.y - Bs.y) ** 2)
+                dis = sqrt((ues.x - Bs.x) ** 2 + (ues.y - Bs.y) ** 2)
                 inf += db_to_int(up_rxp(dis))
     return inf
 
@@ -237,14 +236,14 @@ def gen_loc():
 
 def down_rxp(dis):
     g = (B_H * UE_H) ** 2 / (dis ** EX)
-    g_db = 10 * np.log10(g)
+    g_db = 10 * log10(g)
     rx_p = g_db + BASE_P + TX_G + RX_G
     return rx_p
 
 
 def up_rxp(dis):
     g = (B_H * UE_H) ** 2 / (dis ** EX)
-    g_db = 10 * np.log10(g)
+    g_db = 10 * log10(g)
     rx_p = g_db + UE_P + TX_G + RX_G
     return rx_p
 
@@ -254,7 +253,7 @@ def db_to_int(n):
 
 
 def change_direction():
-    angle = random.uniform(0, 2 * math.pi)
+    angle = random.uniform(0, 2 * pi)
     speed = random.uniform(1, 15)
     time = random.randint(1, 6)
     return angle, speed, time
@@ -275,7 +274,7 @@ if __name__ == "__main__":
     count = 0
     Handoff_events = {}
     for i in range(UE_NUM):
-      Handoff_events[f'{i+1}'] = []
+        Handoff_events[f'{i+1}'] = []
     for time in range(1, 901):
         for cluster in ma.cluster:
             for bs in cluster.bs:
@@ -283,3 +282,5 @@ if __name__ == "__main__":
                     ue.update_loc()
                     count = ue.change_bs(time, count, Handoff_events)
     print(f"Total handoff {count} times.")
+    for i in range(UE_NUM):
+        print(f"{i + 1} : {Handoff_events[f'{i+1}']}")
