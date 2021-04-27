@@ -1,0 +1,887 @@
+Num :  39, Time :   1, Before :  8, After :  7
+Num :  57, Time :   1, Before :  8, After :  7
+Num :  92, Time :   1, Before :  8, After :  3
+Num :  76, Time :   1, Before :  5, After :  2
+Num :  10, Time :   1, Before :  4, After : 19
+Num :  42, Time :   1, Before :  4, After : 16
+Num :  63, Time :   1, Before :  4, After : 19
+Num :   3, Time :   1, Before :  7, After :  8
+Num :  29, Time :   1, Before : 15, After : 19
+Num :  46, Time :   1, Before : 15, After :  8
+Num : 100, Time :   1, Before : 15, After : 19
+Num :  23, Time :   1, Before : 14, After : 18
+Num :  44, Time :   1, Before : 13, After : 12
+Num :  71, Time :   1, Before : 13, After : 11
+Num :  78, Time :   1, Before : 13, After : 11
+Num :  33, Time :   1, Before : 17, After :  2
+Num :  51, Time :   1, Before : 17, After : 12
+Num :  59, Time :   1, Before : 17, After :  2
+Num :  43, Time :   1, Before :  2, After : 18
+Num :  12, Time :   1, Before :  1, After : 17
+Num :  99, Time :   1, Before :  1, After : 16
+Num :  50, Time :   2, Before :  8, After :  6
+Num :  85, Time :   2, Before :  5, After : 13
+Num :  17, Time :   2, Before :  4, After : 19
+Num :  56, Time :   2, Before :  4, After : 16
+Num :  30, Time :   2, Before : 15, After : 10
+Num :  53, Time :   2, Before : 13, After :  7
+Num :  74, Time :   2, Before : 13, After : 11
+Num :  52, Time :   2, Before : 17, After :  1
+Num :  81, Time :   3, Before : 15, After : 11
+Num :  14, Time :   7, Before :  7, After : 13
+Num :  13, Time :   7, Before :  1, After : 12
+Num :  66, Time :   9, Before :  8, After :  6
+Num :   9, Time :   9, Before : 16, After :  1
+Num :   2, Time :   9, Before :  1, After : 17
+Num :  18, Time :  10, Before :  8, After : 17
+Num :  94, Time :  10, Before :  8, After :  6
+Num :  35, Time :  11, Before :  8, After : 19
+Num :  61, Time :  11, Before :  7, After : 19
+Num :  70, Time :  12, Before :  8, After :  7
+Num :  89, Time :  12, Before : 13, After : 11
+Num :  75, Time :  13, Before :  7, After : 13
+Num :  38, Time :  13, Before : 13, After : 11
+Num :  59, Time :  15, Before :  2, After : 17
+Num :   7, Time :  17, Before :  9, After : 10
+Num :  65, Time :  17, Before :  7, After :  8
+Num :  45, Time :  17, Before : 17, After : 12
+Num :  21, Time :  18, Before :  9, After :  5
+Num :  80, Time :  18, Before :  9, After :  1
+Num :  73, Time :  18, Before : 17, After :  1
+Num :  15, Time :  20, Before :  8, After :  7
+Num : 100, Time :  31, Before : 19, After : 18
+Num :  36, Time :  31, Before :  1, After : 17
+Num :  70, Time :  34, Before :  7, After :  8
+Num :  16, Time :  37, Before :  6, After :  7
+Num :  47, Time :  38, Before : 11, After :  6
+Num :  72, Time :  38, Before :  8, After :  6
+Num :  70, Time :  40, Before :  8, After :  6
+Num :  40, Time :  41, Before :  2, After :  9
+Num :  49, Time :  43, Before :  2, After : 17
+Num :  83, Time :  44, Before :  6, After :  3
+Num :  62, Time :  47, Before :  6, After : 10
+Num :  30, Time :  48, Before : 10, After : 15
+Num :  68, Time :  51, Before : 13, After : 12
+Num :  56, Time :  51, Before : 16, After :  4
+Num :  32, Time :  52, Before : 13, After : 11
+Num :  15, Time :  57, Before :  7, After :  8
+Num :  98, Time :  58, Before :  1, After : 16
+Num :  30, Time :  60, Before : 15, After : 10
+Num :  70, Time :  60, Before :  6, After :  8
+Num :  39, Time :  60, Before :  7, After :  8
+Num :   1, Time :  62, Before : 14, After :  9
+Num :  31, Time :  62, Before : 14, After :  9
+Num :  27, Time :  63, Before : 14, After : 19
+Num :   6, Time :  67, Before :  8, After : 18
+Num :  39, Time :  70, Before :  8, After :  6
+Num :  15, Time :  72, Before :  8, After :  6
+Num :  44, Time :  78, Before : 12, After : 17
+Num :  88, Time :  79, Before : 19, After : 15
+Num :  39, Time :  80, Before :  6, After :  8
+Num :  16, Time :  82, Before :  7, After :  4
+Num :  79, Time :  83, Before : 12, After : 11
+Num :  93, Time :  84, Before : 10, After : 11
+Num :   8, Time :  88, Before : 15, After :  8
+Num :  90, Time :  88, Before : 18, After :  3
+Num :  24, Time :  89, Before : 12, After : 11
+Num :  15, Time :  90, Before :  6, After :  8
+Num :  52, Time :  90, Before :  1, After : 17
+Num :  39, Time :  91, Before :  8, After : 18
+Num :  55, Time :  91, Before :  3, After : 18
+Num :  75, Time :  92, Before : 13, After :  7
+Num :   2, Time :  92, Before : 17, After :  1
+Num :   1, Time :  93, Before :  9, After : 17
+Num :  61, Time :  93, Before : 19, After :  3
+Num :  96, Time :  94, Before : 12, After : 17
+Num :  31, Time :  94, Before :  9, After : 17
+Num :  15, Time :  95, Before :  8, After : 18
+Num :   8, Time :  95, Before :  8, After : 15
+Num :  53, Time :  98, Before :  7, After : 11
+Num :  37, Time : 101, Before :  5, After :  6
+Num :  15, Time : 101, Before : 18, After :  8
+Num :  49, Time : 102, Before : 17, After :  1
+Num :  39, Time : 102, Before : 18, After :  8
+Num :  30, Time : 104, Before : 10, After : 13
+Num :  78, Time : 104, Before : 11, After :  9
+Num :  98, Time : 105, Before : 16, After :  1
+Num :  67, Time : 106, Before : 10, After : 14
+Num :   7, Time : 106, Before : 10, After :  9
+Num :  84, Time : 107, Before : 10, After :  6
+Num :  62, Time : 107, Before : 10, After :  6
+Num :  88, Time : 107, Before : 15, After : 19
+Num :  26, Time : 108, Before : 10, After :  3
+Num :  95, Time : 108, Before : 10, After : 19
+Num :  64, Time : 109, Before : 10, After : 18
+Num :  88, Time : 114, Before : 19, After : 15
+Num :  95, Time : 114, Before : 19, After : 10
+Num :  68, Time : 117, Before : 12, After : 19
+Num :  39, Time : 119, Before :  8, After : 18
+Num :  23, Time : 120, Before : 18, After :  7
+Num :   7, Time : 121, Before :  9, After : 19
+Num :  15, Time : 121, Before :  8, After :  2
+Num :  37, Time : 122, Before :  6, After :  5
+Num :  82, Time : 123, Before :  7, After :  6
+Num : 100, Time : 131, Before : 18, After : 19
+Num :  51, Time : 131, Before : 12, After : 16
+Num :  15, Time : 131, Before :  2, After :  8
+Num :   4, Time : 136, Before :  5, After :  1
+Num :  28, Time : 140, Before :  9, After : 17
+Num :  42, Time : 142, Before : 16, After :  1
+Num :  66, Time : 142, Before :  6, After : 13
+Num :  74, Time : 143, Before : 11, After : 13
+Num :  70, Time : 149, Before :  8, After : 18
+Num :  46, Time : 150, Before :  8, After : 15
+Num :  96, Time : 151, Before : 17, After : 12
+Num :  70, Time : 154, Before : 18, After :  8
+Num :  82, Time : 155, Before :  6, After :  7
+Num :  88, Time : 157, Before : 15, After : 19
+Num :  93, Time : 159, Before : 11, After :  6
+Num :  21, Time : 160, Before :  5, After :  9
+Num :  28, Time : 160, Before : 17, After :  9
+Num :  65, Time : 161, Before :  8, After :  7
+Num :  26, Time : 161, Before :  3, After : 10
+Num :  51, Time : 163, Before : 16, After : 13
+Num :  59, Time : 164, Before : 17, After :  6
+Num :  22, Time : 164, Before :  2, After : 10
+Num :  90, Time : 164, Before :  3, After : 18
+Num :   7, Time : 166, Before : 19, After :  9
+Num :  30, Time : 167, Before : 13, After : 14
+Num :  17, Time : 167, Before : 19, After :  4
+Num :  69, Time : 169, Before : 12, After : 17
+Num :  70, Time : 169, Before :  8, After : 18
+Num :  32, Time : 169, Before : 11, After : 14
+Num :  11, Time : 170, Before : 19, After : 18
+Num :  84, Time : 175, Before :  6, After :  5
+Num :  88, Time : 176, Before : 19, After : 15
+Num :  35, Time : 176, Before : 19, After :  8
+Num :  38, Time : 176, Before : 11, After : 13
+Num :  16, Time : 178, Before :  4, After :  6
+Num :  46, Time : 179, Before : 15, After : 19
+Num :  90, Time : 179, Before : 18, After :  3
+Num :  11, Time : 180, Before : 18, After :  3
+Num :   8, Time : 181, Before : 15, After : 19
+Num :  60, Time : 183, Before : 11, After :  6
+Num :  77, Time : 184, Before : 14, After : 15
+Num :  30, Time : 185, Before : 14, After : 19
+Num :   7, Time : 187, Before :  9, After : 10
+Num :  11, Time : 187, Before :  3, After : 18
+Num :  74, Time : 188, Before : 13, After : 10
+Num :   8, Time : 188, Before : 19, After : 15
+Num :  58, Time : 189, Before : 18, After :  3
+Num :  44, Time : 189, Before : 17, After :  2
+Num :   2, Time : 190, Before :  1, After :  5
+Num :  30, Time : 190, Before : 19, After : 14
+Num :  48, Time : 193, Before : 17, After :  2
+Num :  22, Time : 193, Before : 10, After :  2
+Num :  40, Time : 193, Before :  9, After :  5
+Num :  76, Time : 193, Before :  2, After :  5
+Num :  50, Time : 195, Before :  6, After :  9
+Num :  83, Time : 197, Before :  3, After :  6
+Num :  55, Time : 198, Before : 18, After : 17
+Num :  58, Time : 199, Before :  3, After : 18
+Num :  49, Time : 200, Before :  1, After :  2
+Num :  34, Time : 201, Before : 13, After : 11
+Num :  15, Time : 202, Before :  8, After :  3
+Num :  64, Time : 202, Before : 18, After : 10
+Num :   6, Time : 204, Before : 18, After : 19
+Num :  62, Time : 205, Before :  6, After : 10
+Num :  29, Time : 205, Before : 19, After : 15
+Num :  66, Time : 206, Before : 13, After :  9
+Num :  89, Time : 206, Before : 11, After :  7
+Num :   4, Time : 207, Before :  1, After : 10
+Num :  75, Time : 208, Before :  7, After : 13
+Num :  25, Time : 209, Before :  4, After :  9
+Num :  85, Time : 209, Before : 13, After :  2
+Num :  12, Time : 209, Before : 17, After : 18
+Num :  86, Time : 210, Before : 11, After : 16
+Num :  49, Time : 213, Before :  2, After :  9
+Num :  94, Time : 215, Before :  6, After : 13
+Num :  27, Time : 216, Before : 19, After : 14
+Num :  11, Time : 217, Before : 18, After :  3
+Num :  77, Time : 217, Before : 15, After :  9
+Num :  20, Time : 218, Before :  2, After :  1
+Num :  91, Time : 218, Before :  1, After :  4
+Num :  22, Time : 219, Before :  2, After : 18
+Num :  39, Time : 220, Before : 18, After :  8
+Num :  16, Time : 222, Before :  6, After :  7
+Num :  27, Time : 223, Before : 14, After :  6
+Num :  62, Time : 224, Before : 10, After :  5
+Num :  32, Time : 224, Before : 14, After :  6
+Num :  22, Time : 225, Before : 18, After :  2
+Num :  55, Time : 229, Before : 17, After : 14
+Num :  97, Time : 230, Before : 10, After : 11
+Num :  38, Time : 230, Before : 13, After : 14
+Num :  79, Time : 233, Before : 11, After :  7
+Num :   1, Time : 233, Before : 17, After : 14
+Num :  21, Time : 234, Before :  9, After :  4
+Num :  94, Time : 234, Before : 13, After : 15
+Num :  77, Time : 235, Before :  9, After : 14
+Num :  20, Time : 235, Before :  1, After :  2
+Num :  18, Time : 236, Before : 17, After : 19
+Num :  90, Time : 240, Before :  3, After : 18
+Num :  63, Time : 242, Before : 19, After : 15
+Num :  10, Time : 243, Before : 19, After : 15
+Num :   6, Time : 244, Before : 19, After : 18
+Num :   8, Time : 246, Before : 15, After : 19
+Num :  48, Time : 248, Before :  2, After : 17
+Num :  46, Time : 251, Before : 19, After : 15
+Num :  70, Time : 251, Before : 18, After :  8
+Num :  68, Time : 252, Before : 19, After :  9
+Num :  67, Time : 253, Before : 14, After : 10
+Num :  39, Time : 255, Before :  8, After :  3
+Num :  19, Time : 258, Before : 16, After : 19
+Num :  84, Time : 261, Before :  5, After : 10
+Num :  17, Time : 264, Before :  4, After : 16
+Num :  65, Time : 264, Before :  7, After :  3
+Num :  72, Time : 264, Before :  6, After :  8
+Num :  12, Time : 268, Before : 18, After :  2
+Num :   7, Time : 271, Before : 10, After :  9
+Num :  89, Time : 271, Before :  7, After :  6
+Num :  54, Time : 272, Before :  3, After :  2
+Num :  78, Time : 274, Before :  9, After :  4
+Num :   5, Time : 274, Before :  6, After :  5
+Num :  39, Time : 275, Before :  3, After :  8
+Num :  52, Time : 279, Before : 17, After :  8
+Num :  10, Time : 279, Before : 15, After : 19
+Num :  22, Time : 280, Before :  2, After : 17
+Num :  18, Time : 280, Before : 19, After : 15
+Num :  12, Time : 281, Before :  2, After : 17
+Num :  70, Time : 284, Before :  8, After :  4
+Num :  54, Time : 284, Before :  2, After :  3
+Num :  35, Time : 285, Before :  8, After :  3
+Num :  85, Time : 285, Before :  2, After :  6
+Num :  26, Time : 286, Before : 10, After :  9
+Num :  72, Time : 286, Before :  8, After :  3
+Num :  50, Time : 287, Before :  9, After : 18
+Num :  47, Time : 288, Before :  6, After :  3
+Num :  79, Time : 289, Before :  7, After : 11
+Num :  66, Time : 290, Before :  9, After :  9
+Num :  54, Time : 291, Before :  3, After :  2
+Num :  44, Time : 292, Before :  2, After :  5
+Num :  60, Time : 294, Before :  6, After :  5
+Num :  11, Time : 297, Before :  3, After : 18
+Num :   4, Time : 301, Before : 10, After :  5
+Num :  93, Time : 302, Before :  6, After : 11
+Num :  30, Time : 302, Before : 14, After : 17
+Num :  85, Time : 302, Before :  6, After :  2
+Num :  84, Time : 303, Before : 10, After :  5
+Num :  50, Time : 304, Before : 18, After : 13
+Num :  59, Time : 305, Before :  6, After : 18
+Num :  90, Time : 306, Before : 18, After :  2
+Num :  44, Time : 306, Before :  5, After :  1
+Num :  63, Time : 315, Before : 15, After :  4
+Num :  92, Time : 316, Before :  3, After :  7
+Num :  15, Time : 317, Before :  3, After :  8
+Num :  52, Time : 317, Before :  8, After : 17
+Num :  69, Time : 322, Before : 17, After :  1
+Num :  65, Time : 323, Before :  3, After :  8
+Num :  93, Time : 325, Before : 11, After :  6
+Num :  89, Time : 328, Before :  6, After :  7
+Num :  57, Time : 328, Before :  7, After :  3
+Num :  33, Time : 329, Before :  2, After : 17
+Num :  16, Time : 330, Before :  7, After :  6
+Num :  67, Time : 331, Before : 10, After : 17
+Num :   3, Time : 331, Before :  8, After : 13
+Num :  64, Time : 332, Before : 10, After : 15
+Num :  24, Time : 332, Before : 11, After : 16
+Num :  49, Time : 332, Before :  9, After :  2
+Num :   6, Time : 332, Before : 18, After : 19
+Num :  97, Time : 333, Before : 11, After : 16
+Num :  10, Time : 333, Before : 19, After : 15
+Num :  58, Time : 334, Before : 18, After : 19
+Num :  73, Time : 334, Before :  1, After : 16
+Num :  39, Time : 335, Before :  8, After :  3
+Num :  76, Time : 336, Before :  5, After :  4
+Num :  51, Time : 336, Before : 13, After : 12
+Num :  31, Time : 339, Before : 17, After :  9
+Num :  74, Time : 342, Before : 10, After : 13
+Num :  16, Time : 343, Before :  6, After :  3
+Num :  40, Time : 343, Before :  5, After :  1
+Num :  85, Time : 343, Before :  2, After :  3
+Num :   5, Time : 345, Before :  5, After :  7
+Num :  20, Time : 345, Before :  2, After : 17
+Num :  37, Time : 346, Before :  5, After :  7
+Num :  54, Time : 346, Before :  2, After : 11
+Num :   2, Time : 347, Before :  5, After :  1
+Num :   4, Time : 349, Before :  5, After :  7
+Num :  54, Time : 349, Before : 11, After :  2
+Num :  21, Time : 350, Before :  4, After :  5
+Num :  41, Time : 350, Before : 16, After : 11
+Num :  36, Time : 353, Before : 17, After : 14
+Num :  54, Time : 354, Before :  2, After : 16
+Num :  72, Time : 354, Before :  3, After :  8
+Num :  30, Time : 355, Before : 17, After : 14
+Num :  92, Time : 358, Before :  7, After :  3
+Num :  33, Time : 360, Before : 17, After :  6
+Num :  54, Time : 361, Before : 16, After :  2
+Num :  97, Time : 362, Before : 16, After : 10
+Num :  77, Time : 363, Before : 14, After : 10
+Num :  30, Time : 365, Before : 14, After : 10
+Num :  69, Time : 365, Before :  1, After :  2
+Num :  68, Time : 367, Before :  9, After : 13
+Num :  48, Time : 367, Before : 17, After :  6
+Num :  99, Time : 367, Before : 16, After :  1
+Num :  60, Time : 368, Before :  5, After :  3
+Num :  24, Time : 369, Before : 16, After : 12
+Num :  93, Time : 371, Before :  6, After :  3
+Num :  49, Time : 371, Before :  2, After : 17
+Num :  19, Time : 372, Before : 19, After : 15
+Num :  55, Time : 372, Before : 14, After : 13
+Num :  20, Time : 372, Before : 17, After :  2
+Num :  18, Time : 372, Before : 15, After : 19
+Num :  31, Time : 374, Before :  9, After :  8
+Num :  28, Time : 375, Before :  9, After : 17
+Num :   7, Time : 376, Before :  9, After : 17
+Num :  26, Time : 377, Before :  9, After : 19
+Num :  77, Time : 379, Before : 10, After : 19
+Num :  30, Time : 380, Before : 10, After : 14
+Num :  33, Time : 383, Before :  6, After : 17
+Num :  77, Time : 383, Before : 19, After : 14
+Num :  91, Time : 384, Before :  4, After : 16
+Num :  95, Time : 385, Before : 10, After : 14
+Num :  32, Time : 386, Before :  6, After : 14
+Num :   6, Time : 387, Before : 19, After : 15
+Num :  27, Time : 391, Before :  6, After : 14
+Num :  35, Time : 392, Before :  3, After :  8
+Num :  59, Time : 393, Before : 18, After :  3
+Num :  33, Time : 394, Before : 17, After :  2
+Num :  31, Time : 397, Before :  8, After :  1
+Num :   1, Time : 398, Before : 14, After : 17
+Num :  81, Time : 399, Before : 11, After : 12
+Num :  30, Time : 399, Before : 14, After : 17
+Num :  74, Time : 399, Before : 13, After : 13
+Num :  34, Time : 400, Before : 11, After :  7
+Num :  40, Time : 402, Before :  1, After :  7
+Num :  54, Time : 403, Before :  2, After :  3
+Num :  42, Time : 403, Before :  1, After :  4
+Num :  48, Time : 403, Before :  6, After : 17
+Num :  21, Time : 404, Before :  5, After :  3
+Num :   2, Time : 405, Before :  1, After :  7
+Num :  98, Time : 407, Before :  1, After : 11
+Num :  10, Time : 407, Before : 15, After : 19
+Num :  24, Time : 408, Before : 12, After : 16
+Num :  62, Time : 410, Before :  5, After :  2
+Num :  75, Time : 410, Before : 13, After : 12
+Num :  23, Time : 410, Before :  7, After : 18
+Num :  19, Time : 412, Before : 15, After : 19
+Num :  26, Time : 412, Before : 19, After : 10
+Num :  46, Time : 413, Before : 15, After : 10
+Num :  73, Time : 414, Before : 16, After :  5
+Num :  93, Time : 415, Before :  3, After :  6
+Num :  11, Time : 418, Before : 18, After :  7
+Num :   3, Time : 418, Before : 13, After :  7
+Num :  62, Time : 419, Before :  2, After :  5
+Num :  60, Time : 424, Before :  3, After : 10
+Num :  39, Time : 424, Before :  3, After :  4
+Num :  49, Time : 425, Before : 17, After :  2
+Num :  79, Time : 426, Before : 11, After :  4
+Num :  48, Time : 426, Before : 17, After : 10
+Num :  30, Time : 426, Before : 17, After : 10
+Num :  11, Time : 426, Before :  7, After : 18
+Num :  80, Time : 430, Before :  1, After :  8
+Num :  55, Time : 431, Before : 13, After : 14
+Num :  98, Time : 431, Before : 11, After :  1
+Num :  18, Time : 431, Before : 19, After : 16
+Num :  70, Time : 432, Before :  4, After : 19
+Num :  36, Time : 432, Before : 14, After :  9
+Num :  81, Time : 434, Before : 12, After : 10
+Num :  79, Time : 434, Before :  4, After : 11
+Num :  95, Time : 435, Before : 14, After : 10
+Num :  96, Time : 436, Before : 12, After : 13
+Num :  38, Time : 436, Before : 14, After : 13
+Num :  72, Time : 440, Before :  8, After :  3
+Num :  47, Time : 441, Before :  3, After :  6
+Num :  19, Time : 445, Before : 19, After : 15
+Num :  73, Time : 445, Before :  5, After :  2
+Num :  42, Time : 446, Before :  4, After :  1
+Num :  48, Time : 447, Before : 10, After : 17
+Num :  33, Time : 447, Before :  2, After : 17
+Num :  44, Time : 451, Before :  1, After :  4
+Num :  63, Time : 452, Before :  4, After : 16
+Num :  56, Time : 453, Before :  4, After :  1
+Num :  54, Time : 454, Before :  3, After :  2
+Num :   7, Time : 454, Before : 17, After :  9
+Num :  15, Time : 456, Before :  8, After :  9
+Num :  76, Time : 456, Before :  4, After :  9
+Num :   2, Time : 456, Before :  7, After :  1
+Num :  39, Time : 457, Before :  4, After :  9
+Num :  66, Time : 459, Before :  9, After :  9
+Num :  29, Time : 461, Before : 15, After : 10
+Num :  21, Time : 461, Before :  3, After :  1
+Num :  53, Time : 462, Before : 11, After :  8
+Num :  34, Time : 462, Before :  7, After :  8
+Num :  20, Time : 463, Before :  2, After : 18
+Num :  23, Time : 464, Before : 18, After :  3
+Num :  50, Time : 465, Before : 13, After : 15
+Num :  80, Time : 469, Before :  8, After :  3
+Num :  47, Time : 470, Before :  6, After :  7
+Num :  53, Time : 471, Before :  8, After :  2
+Num :  32, Time : 471, Before : 14, After : 18
+Num :  99, Time : 472, Before :  1, After : 16
+Num :  82, Time : 473, Before :  7, After : 11
+Num :  33, Time : 473, Before : 17, After : 18
+Num :  68, Time : 475, Before : 13, After : 11
+Num :  53, Time : 475, Before :  2, After :  8
+Num :  71, Time : 476, Before : 11, After :  4
+Num :  34, Time : 482, Before :  8, After :  2
+Num :  67, Time : 483, Before : 17, After : 15
+Num :  16, Time : 484, Before :  3, After :  7
+Num :  10, Time : 484, Before : 19, After : 15
+Num :  50, Time : 485, Before : 15, After : 13
+Num :   7, Time : 487, Before :  9, After : 13
+Num :  35, Time : 487, Before :  8, After :  3
+Num :  55, Time : 489, Before : 14, After : 15
+Num :  28, Time : 489, Before : 17, After : 13
+Num :  98, Time : 490, Before :  1, After :  7
+Num :   2, Time : 490, Before :  1, After :  7
+Num :  42, Time : 492, Before :  1, After : 12
+Num :  56, Time : 493, Before :  1, After :  7
+Num :  77, Time : 494, Before : 14, After : 19
+Num :  36, Time : 494, Before :  9, After : 14
+Num :  22, Time : 495, Before : 17, After : 18
+Num :  93, Time : 497, Before :  6, After :  3
+Num :   4, Time : 497, Before :  7, After :  5
+Num :  81, Time : 498, Before : 10, After : 11
+Num :  87, Time : 498, Before : 16, After :  4
+Num :  58, Time : 498, Before : 19, After : 18
+Num :  96, Time : 498, Before : 13, After : 12
+Num :  31, Time : 499, Before :  1, After : 13
+Num :  52, Time : 500, Before : 17, After :  1
+Num :  35, Time : 500, Before :  3, After :  8
+Num :  71, Time : 501, Before :  4, After : 13
+Num :  77, Time : 502, Before : 19, After : 14
+Num :  11, Time : 503, Before : 18, After : 19
+Num :  86, Time : 504, Before : 16, After : 19
+Num :  38, Time : 504, Before : 13, After : 12
+Num :  50, Time : 507, Before : 13, After : 12
+Num :  31, Time : 507, Before : 13, After : 12
+Num :  10, Time : 507, Before : 15, After : 19
+Num :   7, Time : 508, Before : 13, After : 14
+Num :   3, Time : 510, Before :  7, After :  9
+Num :  61, Time : 510, Before :  3, After :  8
+Num :  32, Time : 510, Before : 18, After : 14
+Num :  29, Time : 518, Before : 10, After : 14
+Num :  79, Time : 518, Before : 11, After : 16
+Num :  40, Time : 518, Before :  7, After :  5
+Num :  10, Time : 519, Before : 19, After : 18
+Num :  38, Time : 519, Before : 12, After : 13
+Num :  43, Time : 523, Before : 18, After :  2
+Num :  22, Time : 524, Before : 18, After : 13
+Num :  53, Time : 525, Before :  8, After :  5
+Num :  55, Time : 525, Before : 15, After : 18
+Num :  95, Time : 526, Before : 10, After : 11
+Num :   8, Time : 526, Before : 19, After : 15
+Num :  99, Time : 526, Before : 16, After : 12
+Num :  46, Time : 529, Before : 10, After : 11
+Num :  37, Time : 529, Before :  7, After :  5
+Num :  42, Time : 529, Before : 12, After :  1
+Num :  17, Time : 529, Before : 16, After : 18
+Num :  71, Time : 529, Before : 13, After :  4
+Num :  29, Time : 530, Before : 14, After : 10
+Num :  18, Time : 530, Before : 16, After : 11
+Num :  75, Time : 531, Before : 12, After : 18
+Num :  63, Time : 531, Before : 16, After : 11
+Num :  10, Time : 531, Before : 18, After : 19
+Num :  90, Time : 531, Before :  2, After : 18
+Num :  50, Time : 533, Before : 12, After : 13
+Num :  19, Time : 536, Before : 15, After : 19
+Num :  70, Time : 536, Before : 19, After : 18
+Num :  76, Time : 537, Before :  9, After :  4
+Num :  86, Time : 537, Before : 19, After : 16
+Num :  94, Time : 537, Before : 15, After : 12
+Num :  25, Time : 538, Before :  9, After :  5
+Num :  43, Time : 539, Before :  2, After :  3
+Num :  49, Time : 540, Before :  2, After :  7
+Num :  47, Time : 542, Before :  7, After :  3
+Num :  64, Time : 542, Before : 15, After :  8
+Num :  28, Time : 542, Before : 13, After : 12
+Num :  50, Time : 548, Before : 13, After : 12
+Num :  27, Time : 549, Before : 14, After : 12
+Num :  66, Time : 552, Before :  9, After : 10
+Num :   2, Time : 553, Before :  7, After :  5
+Num :   1, Time : 553, Before : 17, After : 14
+Num :  29, Time : 555, Before : 10, After : 14
+Num :  39, Time : 556, Before :  9, After :  8
+Num :  53, Time : 557, Before :  5, After :  8
+Num :  11, Time : 563, Before : 19, After : 18
+Num :  65, Time : 563, Before :  8, After :  7
+Num :   7, Time : 563, Before : 14, After : 13
+Num :  43, Time : 564, Before :  3, After : 18
+Num :  99, Time : 564, Before : 12, After :  1
+Num :  98, Time : 569, Before :  7, After :  5
+Num :  21, Time : 571, Before :  1, After : 12
+Num :  42, Time : 572, Before :  1, After :  4
+Num :  85, Time : 573, Before :  3, After :  6
+Num :  75, Time : 573, Before : 18, After : 12
+Num :  88, Time : 575, Before : 15, After : 19
+Num :  90, Time : 575, Before : 18, After :  2
+Num :  41, Time : 579, Before : 11, After : 10
+Num :  16, Time : 579, Before :  7, After :  3
+Num :  22, Time : 579, Before : 13, After : 17
+Num :  33, Time : 587, Before : 18, After :  3
+Num :  80, Time : 587, Before :  3, After :  8
+Num :  58, Time : 588, Before : 18, After :  7
+Num :  45, Time : 588, Before : 12, After :  7
+Num :  55, Time : 591, Before : 18, After : 13
+Num :  27, Time : 593, Before : 12, After : 14
+Num :  39, Time : 594, Before :  8, After :  9
+Num : 100, Time : 595, Before : 19, After :  7
+Num :  62, Time : 598, Before :  5, After :  1
+Num :  89, Time : 598, Before :  7, After :  6
+Num :  46, Time : 599, Before : 11, After : 10
+Num :  56, Time : 599, Before :  7, After :  4
+Num :  88, Time : 602, Before : 19, After :  8
+Num :  63, Time : 602, Before : 11, After :  1
+Num :  40, Time : 603, Before :  5, After :  1
+Num :  25, Time : 603, Before :  5, After :  4
+Num :   4, Time : 608, Before :  5, After :  2
+Num :  30, Time : 609, Before : 10, After : 14
+Num :  37, Time : 609, Before :  5, After :  3
+Num :  98, Time : 609, Before :  5, After :  4
+Num :   7, Time : 609, Before : 13, After : 15
+Num :   3, Time : 610, Before :  9, After :  7
+Num :   5, Time : 612, Before :  7, After :  2
+Num :  50, Time : 617, Before : 12, After : 13
+Num :  77, Time : 618, Before : 14, After : 10
+Num :  70, Time : 618, Before : 18, After : 19
+Num :  30, Time : 619, Before : 14, After : 10
+Num :  31, Time : 619, Before : 12, After : 15
+Num :   8, Time : 620, Before : 15, After :  8
+Num :  75, Time : 621, Before : 12, After : 16
+Num :  65, Time : 621, Before :  7, After :  3
+Num :  34, Time : 623, Before :  2, After :  8
+Num :  62, Time : 624, Before :  1, After :  2
+Num :  10, Time : 624, Before : 19, After :  3
+Num :  38, Time : 627, Before : 13, After : 14
+Num :  73, Time : 628, Before :  2, After :  1
+Num :  85, Time : 629, Before :  6, After : 11
+Num :  99, Time : 629, Before :  1, After : 12
+Num :  59, Time : 629, Before :  3, After :  2
+Num :  66, Time : 630, Before : 10, After :  9
+Num :  40, Time : 632, Before :  1, After :  2
+Num :  46, Time : 633, Before : 10, After : 15
+Num :  37, Time : 635, Before :  3, After :  5
+Num :  45, Time : 635, Before :  7, After :  6
+Num :  92, Time : 638, Before :  3, After :  7
+Num :  60, Time : 640, Before : 10, After :  6
+Num :  90, Time : 641, Before :  2, After : 18
+Num :  85, Time : 644, Before : 11, After :  6
+Num :  65, Time : 644, Before :  3, After :  7
+Num :  99, Time : 644, Before : 12, After :  1
+Num :  74, Time : 645, Before : 13, After : 13
+Num :  24, Time : 648, Before : 16, After : 12
+Num :  88, Time : 648, Before :  8, After : 15
+Num :  87, Time : 648, Before :  4, After :  1
+Num :  28, Time : 648, Before : 12, After : 13
+Num :  31, Time : 648, Before : 15, After :  7
+Num :  79, Time : 650, Before : 16, After : 11
+Num :  63, Time : 650, Before :  1, After : 12
+Num :  30, Time : 652, Before : 10, After : 15
+Num :  27, Time : 654, Before : 14, After : 10
+Num :   8, Time : 656, Before :  8, After : 15
+Num :  55, Time : 656, Before : 13, After : 17
+Num :  22, Time : 656, Before : 17, After : 13
+Num :  25, Time : 658, Before :  4, After :  5
+Num :  85, Time : 659, Before :  6, After : 11
+Num :  16, Time : 659, Before :  3, After :  7
+Num :  75, Time : 661, Before : 16, After :  4
+Num :  44, Time : 661, Before :  4, After :  9
+Num :   3, Time : 662, Before :  7, After : 11
+Num :  17, Time : 663, Before : 18, After : 19
+Num :   2, Time : 664, Before :  5, After :  4
+Num :  28, Time : 665, Before : 13, After : 12
+Num :  12, Time : 665, Before : 17, After : 18
+Num :  16, Time : 669, Before :  7, After :  8
+Num :   4, Time : 669, Before :  2, After :  5
+Num :  80, Time : 672, Before :  8, After : 13
+Num :  17, Time : 673, Before : 19, After : 18
+Num :  53, Time : 676, Before :  8, After :  9
+Num :   3, Time : 677, Before : 11, After : 12
+Num :  78, Time : 679, Before :  4, After : 16
+Num :   7, Time : 680, Before : 15, After : 13
+Num :  58, Time : 682, Before :  7, After : 18
+Num :  93, Time : 683, Before :  3, After :  6
+Num :  57, Time : 683, Before :  3, After :  8
+Num :  82, Time : 686, Before : 11, After :  7
+Num :  96, Time : 686, Before : 12, After : 17
+Num :  47, Time : 687, Before :  3, After : 11
+Num :  13, Time : 687, Before : 12, After :  1
+Num :  68, Time : 687, Before : 11, After :  8
+Num :  53, Time : 688, Before :  9, After :  8
+Num :  64, Time : 688, Before :  8, After : 15
+Num :   4, Time : 690, Before :  5, After :  1
+Num :  60, Time : 691, Before :  6, After : 11
+Num :  82, Time : 691, Before :  7, After :  9
+Num :  39, Time : 692, Before :  9, After :  4
+Num :  15, Time : 695, Before :  9, After : 10
+Num :  82, Time : 697, Before :  9, After :  7
+Num :  93, Time : 699, Before :  6, After :  3
+Num :  90, Time : 700, Before : 18, After :  3
+Num :  40, Time : 701, Before :  2, After :  3
+Num :  88, Time : 703, Before : 15, After : 16
+Num :  80, Time : 703, Before : 13, After :  8
+Num :  54, Time : 704, Before :  2, After :  3
+Num :  75, Time : 704, Before :  4, After : 16
+Num :  44, Time : 704, Before :  9, After :  5
+Num :  65, Time : 705, Before :  7, After :  9
+Num :  86, Time : 708, Before : 16, After :  4
+Num :  58, Time : 709, Before : 18, After :  8
+Num :  34, Time : 710, Before :  8, After :  3
+Num :  16, Time : 710, Before :  8, After :  7
+Num :  56, Time : 711, Before :  4, After :  1
+Num :  77, Time : 713, Before : 10, After : 15
+Num :  98, Time : 713, Before :  4, After :  5
+Num :  96, Time : 718, Before : 17, After : 13
+Num :  49, Time : 719, Before :  7, After :  2
+Num :  51, Time : 720, Before : 12, After :  7
+Num :  39, Time : 721, Before :  4, After :  9
+Num :  58, Time : 726, Before :  8, After : 18
+Num :  35, Time : 727, Before :  8, After :  8
+Num :  13, Time : 728, Before :  1, After : 12
+Num :  32, Time : 731, Before : 14, After : 18
+Num :  43, Time : 731, Before : 18, After :  2
+Num :  57, Time : 732, Before :  8, After :  3
+Num :   4, Time : 732, Before :  1, After : 12
+Num :   1, Time : 733, Before : 14, After : 19
+Num :  54, Time : 733, Before :  3, After :  6
+Num : 100, Time : 734, Before :  7, After : 18
+Num :  60, Time : 738, Before : 11, After :  6
+Num :  82, Time : 739, Before :  7, After :  8
+Num :  69, Time : 740, Before :  2, After : 17
+Num :  17, Time : 746, Before : 18, After : 19
+Num :  38, Time : 746, Before : 14, After : 13
+Num :  23, Time : 747, Before :  3, After : 19
+Num :  82, Time : 748, Before :  8, After :  7
+Num :  92, Time : 748, Before :  7, After : 12
+Num :  33, Time : 748, Before :  3, After : 18
+Num :  12, Time : 749, Before : 18, After :  2
+Num :  87, Time : 751, Before :  1, After :  4
+Num :   2, Time : 756, Before :  4, After :  1
+Num :  16, Time : 757, Before :  7, After :  8
+Num :  35, Time : 757, Before :  8, After :  9
+Num :  32, Time : 757, Before : 18, After : 14
+Num :  80, Time : 758, Before :  8, After :  8
+Num :  62, Time : 758, Before :  2, After :  4
+Num :   1, Time : 758, Before : 19, After : 14
+Num :  68, Time : 759, Before :  8, After :  3
+Num :  93, Time : 759, Before :  3, After :  6
+Num :  81, Time : 760, Before : 11, After : 15
+Num :   5, Time : 760, Before :  2, After :  5
+Num :  43, Time : 761, Before :  2, After : 18
+Num :  61, Time : 761, Before :  8, After :  3
+Num :   7, Time : 762, Before : 13, After : 12
+Num :   4, Time : 764, Before : 12, After :  1
+Num :  12, Time : 765, Before :  2, After : 11
+Num :  45, Time : 765, Before :  6, After :  3
+Num :   7, Time : 771, Before : 12, After :  7
+Num :  27, Time : 773, Before : 10, After :  9
+Num :  58, Time : 774, Before : 18, After : 14
+Num :  70, Time : 775, Before : 19, After : 18
+Num :  15, Time : 776, Before : 10, After : 14
+Num :  83, Time : 779, Before :  6, After :  3
+Num :  46, Time : 780, Before : 15, After : 11
+Num :   2, Time : 785, Before :  1, After :  3
+Num :   5, Time : 786, Before :  5, After :  2
+Num :  26, Time : 787, Before : 10, After : 14
+Num :  54, Time : 789, Before :  6, After : 11
+Num :  50, Time : 790, Before : 13, After :  9
+Num :  18, Time : 791, Before : 11, After : 16
+Num :  92, Time : 791, Before : 12, After :  7
+Num :  78, Time : 794, Before : 16, After :  4
+Num :  37, Time : 795, Before :  5, After :  4
+Num :  30, Time : 795, Before : 15, After : 14
+Num :  46, Time : 797, Before : 11, After : 15
+Num :  43, Time : 797, Before : 18, After : 14
+Num :  33, Time : 798, Before : 18, After : 17
+Num :  94, Time : 798, Before : 12, After : 16
+Num :  84, Time : 800, Before :  5, After :  3
+Num :  68, Time : 800, Before :  3, After :  8
+Num :  12, Time : 802, Before : 11, After :  2
+Num :  25, Time : 803, Before :  5, After :  1
+Num :  91, Time : 803, Before : 16, After :  4
+Num :  95, Time : 804, Before : 11, After : 19
+Num :  78, Time : 806, Before :  4, After : 16
+Num :  58, Time : 807, Before : 14, After : 18
+Num :  13, Time : 808, Before : 12, After :  1
+Num :   7, Time : 808, Before :  7, After : 13
+Num :   1, Time : 809, Before : 14, After : 17
+Num :  63, Time : 809, Before : 12, After :  9
+Num :  26, Time : 810, Before : 14, After : 19
+Num :  23, Time : 810, Before : 19, After : 18
+Num :  34, Time : 810, Before :  3, After : 13
+Num :  29, Time : 811, Before : 14, After : 12
+Num :   5, Time : 811, Before :  2, After :  3
+Num :  22, Time : 811, Before : 13, After : 12
+Num :  35, Time : 813, Before :  9, After : 13
+Num :   2, Time : 813, Before :  3, After :  4
+Num :  12, Time : 814, Before :  2, After : 11
+Num :  66, Time : 815, Before :  9, After : 10
+Num :  72, Time : 815, Before :  3, After : 18
+Num :  50, Time : 817, Before :  9, After : 13
+Num :  32, Time : 818, Before : 14, After : 13
+Num :  10, Time : 818, Before :  3, After :  8
+Num : 100, Time : 819, Before : 18, After : 19
+Num :  57, Time : 819, Before :  3, After :  8
+Num :  30, Time : 820, Before : 14, After : 12
+Num :   4, Time : 822, Before :  1, After :  7
+Num :  96, Time : 823, Before : 13, After : 12
+Num :  58, Time : 824, Before : 18, After :  7
+Num :  56, Time : 824, Before :  1, After :  7
+Num :  93, Time : 825, Before :  6, After :  3
+Num :  86, Time : 825, Before :  4, After :  1
+Num :  61, Time : 830, Before :  3, After : 19
+Num :   8, Time : 832, Before : 15, After : 19
+Num :  12, Time : 832, Before : 11, After :  2
+Num :  58, Time : 833, Before :  7, After : 14
+Num :  26, Time : 834, Before : 19, After : 14
+Num :  10, Time : 836, Before :  8, After : 19
+Num :  25, Time : 836, Before :  1, After :  5
+Num :  24, Time : 837, Before : 12, After : 11
+Num :  16, Time : 838, Before :  8, After :  7
+Num :  88, Time : 840, Before : 16, After : 11
+Num :  75, Time : 842, Before : 16, After :  4
+Num :  31, Time : 842, Before :  7, After : 11
+Num :  68, Time : 844, Before :  8, After :  2
+Num :  58, Time : 844, Before : 14, After :  7
+Num :  51, Time : 845, Before :  7, After : 11
+Num :  54, Time : 847, Before : 11, After :  2
+Num :  82, Time : 851, Before :  7, After : 13
+Num :  74, Time : 851, Before : 13, After :  9
+Num :   3, Time : 852, Before : 12, After : 18
+Num :  58, Time : 853, Before :  7, After : 14
+Num :  95, Time : 854, Before : 19, After : 11
+Num :  27, Time : 857, Before :  9, After : 17
+Num :  64, Time : 858, Before : 15, After :  3
+Num :  87, Time : 859, Before :  4, After : 16
+Num :  47, Time : 860, Before : 11, After :  6
+Num :  11, Time : 860, Before : 18, After : 17
+Num :  58, Time : 868, Before : 14, After : 19
+Num :  17, Time : 868, Before : 19, After : 18
+Num :  15, Time : 869, Before : 14, After : 19
+Num :  25, Time : 870, Before :  5, After :  1
+Num :  15, Time : 870, Before : 19, After : 14
+Num :  26, Time : 874, Before : 14, After : 19
+Num :  45, Time : 874, Before :  3, After :  6
+Num :  50, Time : 875, Before : 13, After :  9
+Num :  77, Time : 876, Before : 15, After :  8
+Num :  67, Time : 878, Before : 15, After : 13
+Num :   7, Time : 878, Before : 13, After : 11
+Num :  89, Time : 879, Before :  6, After :  7
+Num :  58, Time : 879, Before : 19, After : 14
+Num :  46, Time : 880, Before : 15, After :  8
+Num :  26, Time : 880, Before : 19, After : 14
+Num :  91, Time : 883, Before :  4, After : 19
+Num :  25, Time : 883, Before :  1, After :  5
+Num :  22, Time : 883, Before : 12, After : 13
+Num :  30, Time : 883, Before : 12, After : 14
+Num :  52, Time : 883, Before :  1, After : 17
+Num :  46, Time : 884, Before :  8, After : 15
+Num :  82, Time : 884, Before : 13, After :  7
+Num :   5, Time : 885, Before :  3, After :  2
+Num :   6, Time : 885, Before : 15, After : 11
+Num :  26, Time : 892, Before : 14, After : 19
+Num :  84, Time : 895, Before :  3, After :  5
+Num :   1, Time : 898, Before : 17, After : 18
+Num :  48, Time : 899, Before : 17, After : 18
+Num :  51, Time : 900, Before : 11, After :  7
+Total handoff 786 times.
+1 : ['Num :   1, Time :  62, Before : 14, After :  9', 'Num :   1, Time :  93, Before :  9, After : 17', 'Num :   1, Time : 233, Before : 17, After : 14', 'Num :   1, Time : 398, Before : 14, After : 17', 'Num :   1, Time : 553, Before : 17, After : 14', 'Num :   1, Time : 733, Before : 14, After : 19', 'Num :   1, Time : 758, Before : 19, After : 14', 'Num :   1, Time : 809, Before : 14, After : 17', 'Num :   1, Time : 898, Before : 17, After : 18']
+2 : ['Num :   2, Time :   9, Before :  1, After : 17', 'Num :   2, Time :  92, Before : 17, After :  1', 'Num :   2, Time : 190, Before :  1, After :  5', 'Num :   2, Time : 347, Before :  5, After :  1', 'Num :   2, Time : 405, Before :  1, After :  7', 'Num :   2, Time : 456, Before :  7, After :  1', 'Num :   2, Time : 490, Before :  1, After :  7', 'Num :   2, Time : 553, Before :  7, After :  5', 'Num :   2, Time : 664, Before :  5, After :  4', 'Num :   2, Time : 756, Before :  4, After :  1', 'Num :   2, Time : 785, Before :  1, After :  3', 'Num :   2, Time : 813, Before :  3, After :  4']
+3 : ['Num :   3, Time :   1, Before :  7, After :  8', 'Num :   3, Time : 331, Before :  8, After : 13', 'Num :   3, Time : 418, Before : 13, After :  7', 'Num :   3, Time : 510, Before :  7, After :  9', 'Num :   3, Time : 610, Before :  9, After :  7', 'Num :   3, Time : 662, Before :  7, After : 11', 'Num :   3, Time : 677, Before : 11, After : 12', 'Num :   3, Time : 852, Before : 12, After : 18']
+4 : ['Num :   4, Time : 136, Before :  5, After :  1', 'Num :   4, Time : 207, Before :  1, After : 10', 'Num :   4, Time : 301, Before : 10, After :  5', 'Num :   4, Time : 349, Before :  5, After :  7', 'Num :   4, Time : 497, Before :  7, After :  5', 'Num :   4, Time : 608, Before :  5, After :  2', 'Num :   4, Time : 669, Before :  2, After :  5', 'Num :   4, Time : 690, Before :  5, After :  1', 'Num :   4, Time : 732, Before :  1, After : 12', 'Num :   4, Time : 764, Before : 12, After :  1', 'Num :   4, Time : 822, Before :  1, After :  7']
+5 : ['Num :   5, Time : 274, Before :  6, After :  5', 'Num :   5, Time : 345, Before :  5, After :  7', 'Num :   5, Time : 612, Before :  7, After :  2', 'Num :   5, Time : 760, Before :  2, After :  5', 'Num :   5, Time : 786, Before :  5, After :  2', 'Num :   5, Time : 811, Before :  2, After :  3', 'Num :   5, Time : 885, Before :  3, After :  2']
+6 : ['Num :   6, Time :  67, Before :  8, After : 18', 'Num :   6, Time : 204, Before : 18, After : 19', 'Num :   6, Time : 244, Before : 19, After : 18', 'Num :   6, Time : 332, Before : 18, After : 19', 'Num :   6, Time : 387, Before : 19, After : 15', 'Num :   6, Time : 885, Before : 15, After : 11']
+7 : ['Num :   7, Time :  17, Before :  9, After : 10', 'Num :   7, Time : 106, Before : 10, After :  9', 'Num :   7, Time : 121, Before :  9, After : 19', 'Num :   7, Time : 166, Before : 19, After :  9', 'Num :   7, Time : 187, Before :  9, After : 10', 'Num :   7, Time : 271, Before : 10, After :  9', 'Num :   7, Time : 376, Before :  9, After : 17', 'Num :   7, Time : 454, Before : 17, After :  9', 'Num :   7, Time : 487, Before :  9, After : 13', 'Num :   7, Time : 508, Before : 13, After : 14', 'Num :   7, Time : 563, Before : 14, After : 13', 'Num :   7, Time : 609, Before : 13, After : 15', 'Num :   7, Time : 680, Before : 15, After : 13', 'Num :   7, Time : 762, Before : 13, After : 12', 'Num :   7, Time : 771, Before : 12, After :  7', 'Num :   7, Time : 808, Before :  7, After : 13', 'Num :   7, Time : 878, Before : 13, After : 11']
+8 : ['Num :   8, Time :  88, Before : 15, After :  8', 'Num :   8, Time :  95, Before :  8, After : 15', 'Num :   8, Time : 181, Before : 15, After : 19', 'Num :   8, Time : 188, Before : 19, After : 15', 'Num :   8, Time : 246, Before : 15, After : 19', 'Num :   8, Time : 526, Before : 19, After : 15', 'Num :   8, Time : 620, Before : 15, After :  8', 'Num :   8, Time : 656, Before :  8, After : 15', 'Num :   8, Time : 832, Before : 15, After : 19']
+9 : ['Num :   9, Time :   9, Before : 16, After :  1']
+10 : ['Num :  10, Time :   1, Before :  4, After : 19', 'Num :  10, Time : 243, Before : 19, After : 15', 'Num :  10, Time : 279, Before : 15, After : 19', 'Num :  10, Time : 333, Before : 19, After : 15', 'Num :  10, Time : 407, Before : 15, After : 19', 'Num :  10, Time : 484, Before : 19, After : 15', 'Num :  10, Time : 507, Before : 15, After : 19', 'Num :  10, Time : 519, Before : 19, After : 18', 'Num :  10, Time : 531, Before : 18, After : 19', 'Num :  10, Time : 624, Before : 19, After :  3', 'Num :  10, Time : 818, Before :  3, After :  8', 'Num :  10, Time : 836, Before :  8, After : 19']
+11 : ['Num :  11, Time : 170, Before : 19, After : 18', 'Num :  11, Time : 180, Before : 18, After :  3', 'Num :  11, Time : 187, Before :  3, After : 18', 'Num :  11, Time : 217, Before : 18, After :  3', 'Num :  11, Time : 297, Before :  3, After : 18', 'Num :  11, Time : 418, Before : 18, After :  7', 'Num :  11, Time : 426, Before :  7, After : 18', 'Num :  11, Time : 503, Before : 18, After : 19', 'Num :  11, Time : 563, Before : 19, After : 18', 'Num :  11, Time : 860, Before : 18, After : 17']
+12 : ['Num :  12, Time :   1, Before :  1, After : 17', 'Num :  12, Time : 209, Before : 17, After : 18', 'Num :  12, Time : 268, Before : 18, After :  2', 'Num :  12, Time : 281, Before :  2, After : 17', 'Num :  12, Time : 665, Before : 17, After : 18', 'Num :  12, Time : 749, Before : 18, After :  2', 'Num :  12, Time : 765, Before :  2, After : 11', 'Num :  12, Time : 802, Before : 11, After :  2', 'Num :  12, Time : 814, Before :  2, After : 11', 'Num :  12, Time : 832, Before : 11, After :  2']
+13 : ['Num :  13, Time :   7, Before :  1, After : 12', 'Num :  13, Time : 687, Before : 12, After :  1', 'Num :  13, Time : 728, Before :  1, After : 12', 'Num :  13, Time : 808, Before : 12, After :  1']
+14 : ['Num :  14, Time :   7, Before :  7, After : 13']
+15 : ['Num :  15, Time :  20, Before :  8, After :  7', 'Num :  15, Time :  57, Before :  7, After :  8', 'Num :  15, Time :  72, Before :  8, After :  6', 'Num :  15, Time :  90, Before :  6, After :  8', 'Num :  15, Time :  95, Before :  8, After : 18', 'Num :  15, Time : 101, Before : 18, After :  8', 'Num :  15, Time : 121, Before :  8, After :  2', 'Num :  15, Time : 131, Before :  2, After :  8', 'Num :  15, Time : 202, Before :  8, After :  3', 'Num :  15, Time : 317, Before :  3, After :  8', 'Num :  15, Time : 456, Before :  8, After :  9', 'Num :  15, Time : 695, Before :  9, After : 10', 'Num :  15, Time : 776, Before : 10, After : 14', 'Num :  15, Time : 869, Before : 14, After : 19', 'Num :  15, Time : 870, Before : 19, After : 14']
+16 : ['Num :  16, Time :  37, Before :  6, After :  7', 'Num :  16, Time :  82, Before :  7, After :  4', 'Num :  16, Time : 178, Before :  4, After :  6', 'Num :  16, Time : 222, Before :  6, After :  7', 'Num :  16, Time : 330, Before :  7, After :  6', 'Num :  16, Time : 343, Before :  6, After :  3', 'Num :  16, Time : 484, Before :  3, After :  7', 'Num :  16, Time : 579, Before :  7, After :  3', 'Num :  16, Time : 659, Before :  3, After :  7', 'Num :  16, Time : 669, Before :  7, After :  8', 'Num :  16, Time : 710, Before :  8, After :  7', 'Num :  16, Time : 757, Before :  7, After :  8', 'Num :  16, Time : 838, Before :  8, After :  7']
+17 : ['Num :  17, Time :   2, Before :  4, After : 19', 'Num :  17, Time : 167, Before : 19, After :  4', 'Num :  17, Time : 264, Before :  4, After : 16', 'Num :  17, Time : 529, Before : 16, After : 18', 'Num :  17, Time : 663, Before : 18, After : 19', 'Num :  17, Time : 673, Before : 19, After : 18', 'Num :  17, Time : 746, Before : 18, After : 19', 'Num :  17, Time : 868, Before : 19, After : 18']
+18 : ['Num :  18, Time :  10, Before :  8, After : 17', 'Num :  18, Time : 236, Before : 17, After : 19', 'Num :  18, Time : 280, Before : 19, After : 15', 'Num :  18, Time : 372, Before : 15, After : 19', 'Num :  18, Time : 431, Before : 19, After : 16', 'Num :  18, Time : 530, Before : 16, After : 11', 'Num :  18, Time : 791, Before : 11, After : 16']
+19 : ['Num :  19, Time : 258, Before : 16, After : 19', 'Num :  19, Time : 372, Before : 19, After : 15', 'Num :  19, Time : 412, Before : 15, After : 19', 'Num :  19, Time : 445, Before : 19, After : 15', 'Num :  19, Time : 536, Before : 15, After : 19']
+20 : ['Num :  20, Time : 218, Before :  2, After :  1', 'Num :  20, Time : 235, Before :  1, After :  2', 'Num :  20, Time : 345, Before :  2, After : 17', 'Num :  20, Time : 372, Before : 17, After :  2', 'Num :  20, Time : 463, Before :  2, After : 18']
+21 : ['Num :  21, Time :  18, Before :  9, After :  5', 'Num :  21, Time : 160, Before :  5, After :  9', 'Num :  21, Time : 234, Before :  9, After :  4', 'Num :  21, Time : 350, Before :  4, After :  5', 'Num :  21, Time : 404, Before :  5, After :  3', 'Num :  21, Time : 461, Before :  3, After :  1', 'Num :  21, Time : 571, Before :  1, After : 12']
+22 : ['Num :  22, Time : 164, Before :  2, After : 10', 'Num :  22, Time : 193, Before : 10, After :  2', 'Num :  22, Time : 219, Before :  2, After : 18', 'Num :  22, Time : 225, Before : 18, After :  2', 'Num :  22, Time : 280, Before :  2, After : 17', 'Num :  22, Time : 495, Before : 17, After : 18', 'Num :  22, Time : 524, Before : 18, After : 13', 'Num :  22, Time : 579, Before : 13, After : 17', 'Num :  22, Time : 656, Before : 17, After : 13', 'Num :  22, Time : 811, Before : 13, After : 12', 'Num :  22, Time : 883, Before : 12, After : 13']
+23 : ['Num :  23, Time :   1, Before : 14, After : 18', 'Num :  23, Time : 120, Before : 18, After :  7', 'Num :  23, Time : 410, Before :  7, After : 18', 'Num :  23, Time : 464, Before : 18, After :  3', 'Num :  23, Time : 747, Before :  3, After : 19', 'Num :  23, Time : 810, Before : 19, After : 18']
+24 : ['Num :  24, Time :  89, Before : 12, After : 11', 'Num :  24, Time : 332, Before : 11, After : 16', 'Num :  24, Time : 369, Before : 16, After : 12', 'Num :  24, Time : 408, Before : 12, After : 16', 'Num :  24, Time : 648, Before : 16, After : 12', 'Num :  24, Time : 837, Before : 12, After : 11']
+25 : ['Num :  25, Time : 209, Before :  4, After :  9', 'Num :  25, Time : 538, Before :  9, After :  5', 'Num :  25, Time : 603, Before :  5, After :  4', 'Num :  25, Time : 658, Before :  4, After :  5', 'Num :  25, Time : 803, Before :  5, After :  1', 'Num :  25, Time : 836, Before :  1, After :  5', 'Num :  25, Time : 870, Before :  5, After :  1', 'Num :  25, Time : 883, Before :  1, After :  5']
+26 : ['Num :  26, Time : 108, Before : 10, After :  3', 'Num :  26, Time : 161, Before :  3, After : 10', 'Num :  26, Time : 286, Before : 10, After :  9', 'Num :  26, Time : 377, Before :  9, After : 19', 'Num :  26, Time : 412, Before : 19, After : 10', 'Num :  26, Time : 787, Before : 10, After : 14', 'Num :  26, Time : 810, Before : 14, After : 19', 'Num :  26, Time : 834, Before : 19, After : 14', 'Num :  26, Time : 874, Before : 14, After : 19', 'Num :  26, Time : 880, Before : 19, After : 14', 'Num :  26, Time : 892, Before : 14, After : 19']
+27 : ['Num :  27, Time :  63, Before : 14, After : 19', 'Num :  27, Time : 216, Before : 19, After : 14', 'Num :  27, Time : 223, Before : 14, After :  6', 'Num :  27, Time : 391, Before :  6, After : 14', 'Num :  27, Time : 549, Before : 14, After : 12', 'Num :  27, Time : 593, Before : 12, After : 14', 'Num :  27, Time : 654, Before : 14, After : 10', 'Num :  27, Time : 773, Before : 10, After :  9', 'Num :  27, Time : 857, Before :  9, After : 17']
+28 : ['Num :  28, Time : 140, Before :  9, After : 17', 'Num :  28, Time : 160, Before : 17, After :  9', 'Num :  28, Time : 375, Before :  9, After : 17', 'Num :  28, Time : 489, Before : 17, After : 13', 'Num :  28, Time : 542, Before : 13, After : 12', 'Num :  28, Time : 648, Before : 12, After : 13', 'Num :  28, Time : 665, Before : 13, After : 12']
+29 : ['Num :  29, Time :   1, Before : 15, After : 19', 'Num :  29, Time : 205, Before : 19, After : 15', 'Num :  29, Time : 461, Before : 15, After : 10', 'Num :  29, Time : 518, Before : 10, After : 14', 'Num :  29, Time : 530, Before : 14, After : 10', 'Num :  29, Time : 555, Before : 10, After : 14', 'Num :  29, Time : 811, Before : 14, After : 12']
+30 : ['Num :  30, Time :   2, Before : 15, After : 10', 'Num :  30, Time :  48, Before : 10, After : 15', 'Num :  30, Time :  60, Before : 15, After : 10', 'Num :  30, Time : 104, Before : 10, After : 13', 'Num :  30, Time : 167, Before : 13, After : 14', 'Num :  30, Time : 185, Before : 14, After : 19', 'Num :  30, Time : 190, Before : 19, After : 14', 'Num :  30, Time : 302, Before : 14, After : 17', 'Num :  30, Time : 355, Before : 17, After : 14', 'Num :  30, Time : 365, Before : 14, After : 10', 'Num :  30, Time : 380, Before : 10, After : 14', 'Num :  30, Time : 399, Before : 14, After : 17', 'Num :  30, Time : 426, Before : 17, After : 10', 'Num :  30, Time : 609, Before : 10, After : 14', 'Num :  30, Time : 619, Before : 14, After : 10', 'Num :  30, Time : 652, Before : 10, After : 15', 'Num :  30, Time : 795, Before : 15, After : 14', 'Num :  30, Time : 820, Before : 14, After : 12', 'Num :  30, Time : 883, Before : 12, After : 14']
+31 : ['Num :  31, Time :  62, Before : 14, After :  9', 'Num :  31, Time :  94, Before :  9, After : 17', 'Num :  31, Time : 339, Before : 17, After :  9', 'Num :  31, Time : 374, Before :  9, After :  8', 'Num :  31, Time : 397, Before :  8, After :  1', 'Num :  31, Time : 499, Before :  1, After : 13', 'Num :  31, Time : 507, Before : 13, After : 12', 'Num :  31, Time : 619, Before : 12, After : 15', 'Num :  31, Time : 648, Before : 15, After :  7', 'Num :  31, Time : 842, Before :  7, After : 11']
+32 : ['Num :  32, Time :  52, Before : 13, After : 11', 'Num :  32, Time : 169, Before : 11, After : 14', 'Num :  32, Time : 224, Before : 14, After :  6', 'Num :  32, Time : 386, Before :  6, After : 14', 'Num :  32, Time : 471, Before : 14, After : 18', 'Num :  32, Time : 510, Before : 18, After : 14', 'Num :  32, Time : 731, Before : 14, After : 18', 'Num :  32, Time : 757, Before : 18, After : 14', 'Num :  32, Time : 818, Before : 14, After : 13']
+33 : ['Num :  33, Time :   1, Before : 17, After :  2', 'Num :  33, Time : 329, Before :  2, After : 17', 'Num :  33, Time : 360, Before : 17, After :  6', 'Num :  33, Time : 383, Before :  6, After : 17', 'Num :  33, Time : 394, Before : 17, After :  2', 'Num :  33, Time : 447, Before :  2, After : 17', 'Num :  33, Time : 473, Before : 17, After : 18', 'Num :  33, Time : 587, Before : 18, After :  3', 'Num :  33, Time : 748, Before :  3, After : 18', 'Num :  33, Time : 798, Before : 18, After : 17']
+34 : ['Num :  34, Time : 201, Before : 13, After : 11', 'Num :  34, Time : 400, Before : 11, After :  7', 'Num :  34, Time : 462, Before :  7, After :  8', 'Num :  34, Time : 482, Before :  8, After :  2', 'Num :  34, Time : 623, Before :  2, After :  8', 'Num :  34, Time : 710, Before :  8, After :  3', 'Num :  34, Time : 810, Before :  3, After : 13']
+35 : ['Num :  35, Time :  11, Before :  8, After : 19', 'Num :  35, Time : 176, Before : 19, After :  8', 'Num :  35, Time : 285, Before :  8, After :  3', 'Num :  35, Time : 392, Before :  3, After :  8', 'Num :  35, Time : 487, Before :  8, After :  3', 'Num :  35, Time : 500, Before :  3, After :  8', 'Num :  35, Time : 727, Before :  8, After :  8', 'Num :  35, Time : 757, Before :  8, After :  9', 'Num :  35, Time : 813, Before :  9, After : 13']
+36 : ['Num :  36, Time :  31, Before :  1, After : 17', 'Num :  36, Time : 353, Before : 17, After : 14', 'Num :  36, Time : 432, Before : 14, After :  9', 'Num :  36, Time : 494, Before :  9, After : 14']
+37 : ['Num :  37, Time : 101, Before :  5, After :  6', 'Num :  37, Time : 122, Before :  6, After :  5', 'Num :  37, Time : 346, Before :  5, After :  7', 'Num :  37, Time : 529, Before :  7, After :  5', 'Num :  37, Time : 609, Before :  5, After :  3', 'Num :  37, Time : 635, Before :  3, After :  5', 'Num :  37, Time : 795, Before :  5, After :  4']
+38 : ['Num :  38, Time :  13, Before : 13, After : 11', 'Num :  38, Time : 176, Before : 11, After : 13', 'Num :  38, Time : 230, Before : 13, After : 14', 'Num :  38, Time : 436, Before : 14, After : 13', 'Num :  38, Time : 504, Before : 13, After : 12', 'Num :  38, Time : 519, Before : 12, After : 13', 'Num :  38, Time : 627, Before : 13, After : 14', 'Num :  38, Time : 746, Before : 14, After : 13']
+39 : ['Num :  39, Time :   1, Before :  8, After :  7', 'Num :  39, Time :  60, Before :  7, After :  8', 'Num :  39, Time :  70, Before :  8, After :  6', 'Num :  39, Time :  80, Before :  6, After :  8', 'Num :  39, Time :  91, Before :  8, After : 18', 'Num :  39, Time : 102, Before : 18, After :  8', 'Num :  39, Time : 119, Before :  8, After : 18', 'Num :  39, Time : 220, Before : 18, After :  8', 'Num :  39, Time : 255, Before :  8, After :  3', 'Num :  39, Time : 275, Before :  3, After :  8', 'Num :  39, Time : 335, Before :  8, After :  3', 'Num :  39, Time : 424, Before :  3, After :  4', 'Num :  39, Time : 457, Before :  4, After :  9', 'Num :  39, Time : 556, Before :  9, After :  8', 'Num :  39, Time : 594, Before :  8, After :  9', 'Num :  39, Time : 692, Before :  9, After :  4', 'Num :  39, Time : 721, Before :  4, After :  9']
+40 : ['Num :  40, Time :  41, Before :  2, After :  9', 'Num :  40, Time : 193, Before :  9, After :  5', 'Num :  40, Time : 343, Before :  5, After :  1', 'Num :  40, Time : 402, Before :  1, After :  7', 'Num :  40, Time : 518, Before :  7, After :  5', 'Num :  40, Time : 603, Before :  5, After :  1', 'Num :  40, Time : 632, Before :  1, After :  2', 'Num :  40, Time : 701, Before :  2, After :  3']
+41 : ['Num :  41, Time : 350, Before : 16, After : 11', 'Num :  41, Time : 579, Before : 11, After : 10']
+42 : ['Num :  42, Time :   1, Before :  4, After : 16', 'Num :  42, Time : 142, Before : 16, After :  1', 'Num :  42, Time : 403, Before :  1, After :  4', 'Num :  42, Time : 446, Before :  4, After :  1', 'Num :  42, Time : 492, Before :  1, After : 12', 'Num :  42, Time : 529, Before : 12, After :  1', 'Num :  42, Time : 572, Before :  1, After :  4']
+43 : ['Num :  43, Time :   1, Before :  2, After : 18', 'Num :  43, Time : 523, Before : 18, After :  2', 'Num :  43, Time : 539, Before :  2, After :  3', 'Num :  43, Time : 564, Before :  3, After : 18', 'Num :  43, Time : 731, Before : 18, After :  2', 'Num :  43, Time : 761, Before :  2, After : 18', 'Num :  43, Time : 797, Before : 18, After : 14']
+44 : ['Num :  44, Time :   1, Before : 13, After : 12', 'Num :  44, Time :  78, Before : 12, After : 17', 'Num :  44, Time : 189, Before : 17, After :  2', 'Num :  44, Time : 292, Before :  2, After :  5', 'Num :  44, Time : 306, Before :  5, After :  1', 'Num :  44, Time : 451, Before :  1, After :  4', 'Num :  44, Time : 661, Before :  4, After :  9', 'Num :  44, Time : 704, Before :  9, After :  5']
+45 : ['Num :  45, Time :  17, Before : 17, After : 12', 'Num :  45, Time : 588, Before : 12, After :  7', 'Num :  45, Time : 635, Before :  7, After :  6', 'Num :  45, Time : 765, Before :  6, After :  3', 'Num :  45, Time : 874, Before :  3, After :  6']
+46 : ['Num :  46, Time :   1, Before : 15, After :  8', 'Num :  46, Time : 150, Before :  8, After : 15', 'Num :  46, Time : 179, Before : 15, After : 19', 'Num :  46, Time : 251, Before : 19, After : 15', 'Num :  46, Time : 413, Before : 15, After : 10', 'Num :  46, Time : 529, Before : 10, After : 11', 'Num :  46, Time : 599, Before : 11, After : 10', 'Num :  46, Time : 633, Before : 10, After : 15', 'Num :  46, Time : 780, Before : 15, After : 11', 'Num :  46, Time : 797, Before : 11, After : 15', 'Num :  46, Time : 880, Before : 15, After :  8', 'Num :  46, Time : 884, Before :  8, After : 15']
+47 : ['Num :  47, Time :  38, Before : 11, After :  6', 'Num :  47, Time : 288, Before :  6, After :  3', 'Num :  47, Time : 441, Before :  3, After :  6', 'Num :  47, Time : 470, Before :  6, After :  7', 'Num :  47, Time : 542, Before :  7, After :  3', 'Num :  47, Time : 687, Before :  3, After : 11', 'Num :  47, Time : 860, Before : 11, After :  6']
+48 : ['Num :  48, Time : 193, Before : 17, After :  2', 'Num :  48, Time : 248, Before :  2, After : 17', 'Num :  48, Time : 367, Before : 17, After :  6', 'Num :  48, Time : 403, Before :  6, After : 17', 'Num :  48, Time : 426, Before : 17, After : 10', 'Num :  48, Time : 447, Before : 10, After : 17', 'Num :  48, Time : 899, Before : 17, After : 18']
+49 : ['Num :  49, Time :  43, Before :  2, After : 17', 'Num :  49, Time : 102, Before : 17, After :  1', 'Num :  49, Time : 200, Before :  1, After :  2', 'Num :  49, Time : 213, Before :  2, After :  9', 'Num :  49, Time : 332, Before :  9, After :  2', 'Num :  49, Time : 371, Before :  2, After : 17', 'Num :  49, Time : 425, Before : 17, After :  2', 'Num :  49, Time : 540, Before :  2, After :  7', 'Num :  49, Time : 719, Before :  7, After :  2']
+50 : ['Num :  50, Time :   2, Before :  8, After :  6', 'Num :  50, Time : 195, Before :  6, After :  9', 'Num :  50, Time : 287, Before :  9, After : 18', 'Num :  50, Time : 304, Before : 18, After : 13', 'Num :  50, Time : 465, Before : 13, After : 15', 'Num :  50, Time : 485, Before : 15, After : 13', 'Num :  50, Time : 507, Before : 13, After : 12', 'Num :  50, Time : 533, Before : 12, After : 13', 'Num :  50, Time : 548, Before : 13, After : 12', 'Num :  50, Time : 617, Before : 12, After : 13', 'Num :  50, Time : 790, Before : 13, After :  9', 'Num :  50, Time : 817, Before :  9, After : 13', 'Num :  50, Time : 875, Before : 13, After :  9']
+51 : ['Num :  51, Time :   1, Before : 17, After : 12', 'Num :  51, Time : 131, Before : 12, After : 16', 'Num :  51, Time : 163, Before : 16, After : 13', 'Num :  51, Time : 336, Before : 13, After : 12', 'Num :  51, Time : 720, Before : 12, After :  7', 'Num :  51, Time : 845, Before :  7, After : 11', 'Num :  51, Time : 900, Before : 11, After :  7']
+52 : ['Num :  52, Time :   2, Before : 17, After :  1', 'Num :  52, Time :  90, Before :  1, After : 17', 'Num :  52, Time : 279, Before : 17, After :  8', 'Num :  52, Time : 317, Before :  8, After : 17', 'Num :  52, Time : 500, Before : 17, After :  1', 'Num :  52, Time : 883, Before :  1, After : 17']
+53 : ['Num :  53, Time :   2, Before : 13, After :  7', 'Num :  53, Time :  98, Before :  7, After : 11', 'Num :  53, Time : 462, Before : 11, After :  8', 'Num :  53, Time : 471, Before :  8, After :  2', 'Num :  53, Time : 475, Before :  2, After :  8', 'Num :  53, Time : 525, Before :  8, After :  5', 'Num :  53, Time : 557, Before :  5, After :  8', 'Num :  53, Time : 676, Before :  8, After :  9', 'Num :  53, Time : 688, Before :  9, After :  8']
+54 : ['Num :  54, Time : 272, Before :  3, After :  2', 'Num :  54, Time : 284, Before :  2, After :  3', 'Num :  54, Time : 291, Before :  3, After :  2', 'Num :  54, Time : 346, Before :  2, After : 11', 'Num :  54, Time : 349, Before : 11, After :  2', 'Num :  54, Time : 354, Before :  2, After : 16', 'Num :  54, Time : 361, Before : 16, After :  2', 'Num :  54, Time : 403, Before :  2, After :  3', 'Num :  54, Time : 454, Before :  3, After :  2', 'Num :  54, Time : 704, Before :  2, After :  3', 'Num :  54, Time : 733, Before :  3, After :  6', 'Num :  54, Time : 789, Before :  6, After : 11', 'Num :  54, Time : 847, Before : 11, After :  2']
+55 : ['Num :  55, Time :  91, Before :  3, After : 18', 'Num :  55, Time : 198, Before : 18, After : 17', 'Num :  55, Time : 229, Before : 17, After : 14', 'Num :  55, Time : 372, Before : 14, After : 13', 'Num :  55, Time : 431, Before : 13, After : 14', 'Num :  55, Time : 489, Before : 14, After : 15', 'Num :  55, Time : 525, Before : 15, After : 18', 'Num :  55, Time : 591, Before : 18, After : 13', 'Num :  55, Time : 656, Before : 13, After : 17']
+56 : ['Num :  56, Time :   2, Before :  4, After : 16', 'Num :  56, Time :  51, Before : 16, After :  4', 'Num :  56, Time : 453, Before :  4, After :  1', 'Num :  56, Time : 493, Before :  1, After :  7', 'Num :  56, Time : 599, Before :  7, After :  4', 'Num :  56, Time : 711, Before :  4, After :  1', 'Num :  56, Time : 824, Before :  1, After :  7']
+57 : ['Num :  57, Time :   1, Before :  8, After :  7', 'Num :  57, Time : 328, Before :  7, After :  3', 'Num :  57, Time : 683, Before :  3, After :  8', 'Num :  57, Time : 732, Before :  8, After :  3', 'Num :  57, Time : 819, Before :  3, After :  8']
+58 : ['Num :  58, Time : 189, Before : 18, After :  3', 'Num :  58, Time : 199, Before :  3, After : 18', 'Num :  58, Time : 334, Before : 18, After : 19', 'Num :  58, Time : 498, Before : 19, After : 18', 'Num :  58, Time : 588, Before : 18, After :  7', 'Num :  58, Time : 682, Before :  7, After : 18', 'Num :  58, Time : 709, Before : 18, After :  8', 'Num :  58, Time : 726, Before :  8, After : 18', 'Num :  58, Time : 774, Before : 18, After : 14', 'Num :  58, Time : 807, Before : 14, After : 18', 'Num :  58, Time : 824, Before : 18, After :  7', 'Num :  58, Time : 833, Before :  7, After : 14', 'Num :  58, Time : 844, Before : 14, After :  7', 'Num :  58, Time : 853, Before :  7, After : 14', 'Num :  58, Time : 868, Before : 14, After : 19', 'Num :  58, Time : 879, Before : 19, After : 14']
+59 : ['Num :  59, Time :   1, Before : 17, After :  2', 'Num :  59, Time :  15, Before :  2, After : 17', 'Num :  59, Time : 164, Before : 17, After :  6', 'Num :  59, Time : 305, Before :  6, After : 18', 'Num :  59, Time : 393, Before : 18, After :  3', 'Num :  59, Time : 629, Before :  3, After :  2']
+60 : ['Num :  60, Time : 183, Before : 11, After :  6', 'Num :  60, Time : 294, Before :  6, After :  5', 'Num :  60, Time : 368, Before :  5, After :  3', 'Num :  60, Time : 424, Before :  3, After : 10', 'Num :  60, Time : 640, Before : 10, After :  6', 'Num :  60, Time : 691, Before :  6, After : 11', 'Num :  60, Time : 738, Before : 11, After :  6']
+61 : ['Num :  61, Time :  11, Before :  7, After : 19', 'Num :  61, Time :  93, Before : 19, After :  3', 'Num :  61, Time : 510, Before :  3, After :  8', 'Num :  61, Time : 761, Before :  8, After :  3', 'Num :  61, Time : 830, Before :  3, After : 19']
+62 : ['Num :  62, Time :  47, Before :  6, After : 10', 'Num :  62, Time : 107, Before : 10, After :  6', 'Num :  62, Time : 205, Before :  6, After : 10', 'Num :  62, Time : 224, Before : 10, After :  5', 'Num :  62, Time : 410, Before :  5, After :  2', 'Num :  62, Time : 419, Before :  2, After :  5', 'Num :  62, Time : 598, Before :  5, After :  1', 'Num :  62, Time : 624, Before :  1, After :  2', 'Num :  62, Time : 758, Before :  2, After :  4']
+63 : ['Num :  63, Time :   1, Before :  4, After : 19', 'Num :  63, Time : 242, Before : 19, After : 15', 'Num :  63, Time : 315, Before : 15, After :  4', 'Num :  63, Time : 452, Before :  4, After : 16', 'Num :  63, Time : 531, Before : 16, After : 11', 'Num :  63, Time : 602, Before : 11, After :  1', 'Num :  63, Time : 650, Before :  1, After : 12', 'Num :  63, Time : 809, Before : 12, After :  9']
+64 : ['Num :  64, Time : 109, Before : 10, After : 18', 'Num :  64, Time : 202, Before : 18, After : 10', 'Num :  64, Time : 332, Before : 10, After : 15', 'Num :  64, Time : 542, Before : 15, After :  8', 'Num :  64, Time : 688, Before :  8, After : 15', 'Num :  64, Time : 858, Before : 15, After :  3']
+65 : ['Num :  65, Time :  17, Before :  7, After :  8', 'Num :  65, Time : 161, Before :  8, After :  7', 'Num :  65, Time : 264, Before :  7, After :  3', 'Num :  65, Time : 323, Before :  3, After :  8', 'Num :  65, Time : 563, Before :  8, After :  7', 'Num :  65, Time : 621, Before :  7, After :  3', 'Num :  65, Time : 644, Before :  3, After :  7', 'Num :  65, Time : 705, Before :  7, After :  9']
+66 : ['Num :  66, Time :   9, Before :  8, After :  6', 'Num :  66, Time : 142, Before :  6, After : 13', 'Num :  66, Time : 206, Before : 13, After :  9', 'Num :  66, Time : 290, Before :  9, After :  9', 'Num :  66, Time : 459, Before :  9, After :  9', 'Num :  66, Time : 552, Before :  9, After : 10', 'Num :  66, Time : 630, Before : 10, After :  9', 'Num :  66, Time : 815, Before :  9, After : 10']
+67 : ['Num :  67, Time : 106, Before : 10, After : 14', 'Num :  67, Time : 253, Before : 14, After : 10', 'Num :  67, Time : 331, Before : 10, After : 17', 'Num :  67, Time : 483, Before : 17, After : 15', 'Num :  67, Time : 878, Before : 15, After : 13']
+68 : ['Num :  68, Time :  51, Before : 13, After : 12', 'Num :  68, Time : 117, Before : 12, After : 19', 'Num :  68, Time : 252, Before : 19, After :  9', 'Num :  68, Time : 367, Before :  9, After : 13', 'Num :  68, Time : 475, Before : 13, After : 11', 'Num :  68, Time : 687, Before : 11, After :  8', 'Num :  68, Time : 759, Before :  8, After :  3', 'Num :  68, Time : 800, Before :  3, After :  8', 'Num :  68, Time : 844, Before :  8, After :  2']
+69 : ['Num :  69, Time : 169, Before : 12, After : 17', 'Num :  69, Time : 322, Before : 17, After :  1', 'Num :  69, Time : 365, Before :  1, After :  2', 'Num :  69, Time : 740, Before :  2, After : 17']
+70 : ['Num :  70, Time :  12, Before :  8, After :  7', 'Num :  70, Time :  34, Before :  7, After :  8', 'Num :  70, Time :  40, Before :  8, After :  6', 'Num :  70, Time :  60, Before :  6, After :  8', 'Num :  70, Time : 149, Before :  8, After : 18', 'Num :  70, Time : 154, Before : 18, After :  8', 'Num :  70, Time : 169, Before :  8, After : 18', 'Num :  70, Time : 251, Before : 18, After :  8', 'Num :  70, Time : 284, Before :  8, After :  4', 'Num :  70, Time : 432, Before :  4, After : 19', 'Num :  70, Time : 536, Before : 19, After : 18', 'Num :  70, Time : 618, Before : 18, After : 19', 'Num :  70, Time : 775, Before : 19, After : 18']
+71 : ['Num :  71, Time :   1, Before : 13, After : 11', 'Num :  71, Time : 476, Before : 11, After :  4', 'Num :  71, Time : 501, Before :  4, After : 13', 'Num :  71, Time : 529, Before : 13, After :  4']
+72 : ['Num :  72, Time :  38, Before :  8, After :  6', 'Num :  72, Time : 264, Before :  6, After :  8', 'Num :  72, Time : 286, Before :  8, After :  3', 'Num :  72, Time : 354, Before :  3, After :  8', 'Num :  72, Time : 440, Before :  8, After :  3', 'Num :  72, Time : 815, Before :  3, After : 18']
+73 : ['Num :  73, Time :  18, Before : 17, After :  1', 'Num :  73, Time : 334, Before :  1, After : 16', 'Num :  73, Time : 414, Before : 16, After :  5', 'Num :  73, Time : 445, Before :  5, After :  2', 'Num :  73, Time : 628, Before :  2, After :  1']
+74 : ['Num :  74, Time :   2, Before : 13, After : 11', 'Num :  74, Time : 143, Before : 11, After : 13', 'Num :  74, Time : 188, Before : 13, After : 10', 'Num :  74, Time : 342, Before : 10, After : 13', 'Num :  74, Time : 399, Before : 13, After : 13', 'Num :  74, Time : 645, Before : 13, After : 13', 'Num :  74, Time : 851, Before : 13, After :  9']
+75 : ['Num :  75, Time :  13, Before :  7, After : 13', 'Num :  75, Time :  92, Before : 13, After :  7', 'Num :  75, Time : 208, Before :  7, After : 13', 'Num :  75, Time : 410, Before : 13, After : 12', 'Num :  75, Time : 531, Before : 12, After : 18', 'Num :  75, Time : 573, Before : 18, After : 12', 'Num :  75, Time : 621, Before : 12, After : 16', 'Num :  75, Time : 661, Before : 16, After :  4', 'Num :  75, Time : 704, Before :  4, After : 16', 'Num :  75, Time : 842, Before : 16, After :  4']
+76 : ['Num :  76, Time :   1, Before :  5, After :  2', 'Num :  76, Time : 193, Before :  2, After :  5', 'Num :  76, Time : 336, Before :  5, After :  4', 'Num :  76, Time : 456, Before :  4, After :  9', 'Num :  76, Time : 537, Before :  9, After :  4']
+77 : ['Num :  77, Time : 184, Before : 14, After : 15', 'Num :  77, Time : 217, Before : 15, After :  9', 'Num :  77, Time : 235, Before :  9, After : 14', 'Num :  77, Time : 363, Before : 14, After : 10', 'Num :  77, Time : 379, Before : 10, After : 19', 'Num :  77, Time : 383, Before : 19, After : 14', 'Num :  77, Time : 494, Before : 14, After : 19', 'Num :  77, Time : 502, Before : 19, After : 14', 'Num :  77, Time : 618, Before : 14, After : 10', 'Num :  77, Time : 713, Before : 10, After : 15', 'Num :  77, Time : 876, Before : 15, After :  8']
+78 : ['Num :  78, Time :   1, Before : 13, After : 11', 'Num :  78, Time : 104, Before : 11, After :  9', 'Num :  78, Time : 274, Before :  9, After :  4', 'Num :  78, Time : 679, Before :  4, After : 16', 'Num :  78, Time : 794, Before : 16, After :  4', 'Num :  78, Time : 806, Before :  4, After : 16']
+79 : ['Num :  79, Time :  83, Before : 12, After : 11', 'Num :  79, Time : 233, Before : 11, After :  7', 'Num :  79, Time : 289, Before :  7, After : 11', 'Num :  79, Time : 426, Before : 11, After :  4', 'Num :  79, Time : 434, Before :  4, After : 11', 'Num :  79, Time : 518, Before : 11, After : 16', 'Num :  79, Time : 650, Before : 16, After : 11']
+80 : ['Num :  80, Time :  18, Before :  9, After :  1', 'Num :  80, Time : 430, Before :  1, After :  8', 'Num :  80, Time : 469, Before :  8, After :  3', 'Num :  80, Time : 587, Before :  3, After :  8', 'Num :  80, Time : 672, Before :  8, After : 13', 'Num :  80, Time : 703, Before : 13, After :  8', 'Num :  80, Time : 758, Before :  8, After :  8']
+81 : ['Num :  81, Time :   3, Before : 15, After : 11', 'Num :  81, Time : 399, Before : 11, After : 12', 'Num :  81, Time : 434, Before : 12, After : 10', 'Num :  81, Time : 498, Before : 10, After : 11', 'Num :  81, Time : 760, Before : 11, After : 15']
+82 : ['Num :  82, Time : 123, Before :  7, After :  6', 'Num :  82, Time : 155, Before :  6, After :  7', 'Num :  82, Time : 473, Before :  7, After : 11', 'Num :  82, Time : 686, Before : 11, After :  7', 'Num :  82, Time : 691, Before :  7, After :  9', 'Num :  82, Time : 697, Before :  9, After :  7', 'Num :  82, Time : 739, Before :  7, After :  8', 'Num :  82, Time : 748, Before :  8, After :  7', 'Num :  82, Time : 851, Before :  7, After : 13', 'Num :  82, Time : 884, Before : 13, After :  7']
+83 : ['Num :  83, Time :  44, Before :  6, After :  3', 'Num :  83, Time : 197, Before :  3, After :  6', 'Num :  83, Time : 779, Before :  6, After :  3']
+84 : ['Num :  84, Time : 107, Before : 10, After :  6', 'Num :  84, Time : 175, Before :  6, After :  5', 'Num :  84, Time : 261, Before :  5, After : 10', 'Num :  84, Time : 303, Before : 10, After :  5', 'Num :  84, Time : 800, Before :  5, After :  3', 'Num :  84, Time : 895, Before :  3, After :  5']
+85 : ['Num :  85, Time :   2, Before :  5, After : 13', 'Num :  85, Time : 209, Before : 13, After :  2', 'Num :  85, Time : 285, Before :  2, After :  6', 'Num :  85, Time : 302, Before :  6, After :  2', 'Num :  85, Time : 343, Before :  2, After :  3', 'Num :  85, Time : 573, Before :  3, After :  6', 'Num :  85, Time : 629, Before :  6, After : 11', 'Num :  85, Time : 644, Before : 11, After :  6', 'Num :  85, Time : 659, Before :  6, After : 11']
+86 : ['Num :  86, Time : 210, Before : 11, After : 16', 'Num :  86, Time : 504, Before : 16, After : 19', 'Num :  86, Time : 537, Before : 19, After : 16', 'Num :  86, Time : 708, Before : 16, After :  4', 'Num :  86, Time : 825, Before :  4, After :  1']
+87 : ['Num :  87, Time : 498, Before : 16, After :  4', 'Num :  87, Time : 648, Before :  4, After :  1', 'Num :  87, Time : 751, Before :  1, After :  4', 'Num :  87, Time : 859, Before :  4, After : 16']
+88 : ['Num :  88, Time :  79, Before : 19, After : 15', 'Num :  88, Time : 107, Before : 15, After : 19', 'Num :  88, Time : 114, Before : 19, After : 15', 'Num :  88, Time : 157, Before : 15, After : 19', 'Num :  88, Time : 176, Before : 19, After : 15', 'Num :  88, Time : 575, Before : 15, After : 19', 'Num :  88, Time : 602, Before : 19, After :  8', 'Num :  88, Time : 648, Before :  8, After : 15', 'Num :  88, Time : 703, Before : 15, After : 16', 'Num :  88, Time : 840, Before : 16, After : 11']
+89 : ['Num :  89, Time :  12, Before : 13, After : 11', 'Num :  89, Time : 206, Before : 11, After :  7', 'Num :  89, Time : 271, Before :  7, After :  6', 'Num :  89, Time : 328, Before :  6, After :  7', 'Num :  89, Time : 598, Before :  7, After :  6', 'Num :  89, Time : 879, Before :  6, After :  7']
+90 : ['Num :  90, Time :  88, Before : 18, After :  3', 'Num :  90, Time : 164, Before :  3, After : 18', 'Num :  90, Time : 179, Before : 18, After :  3', 'Num :  90, Time : 240, Before :  3, After : 18', 'Num :  90, Time : 306, Before : 18, After :  2', 'Num :  90, Time : 531, Before :  2, After : 18', 'Num :  90, Time : 575, Before : 18, After :  2', 'Num :  90, Time : 641, Before :  2, After : 18', 'Num :  90, Time : 700, Before : 18, After :  3']
+91 : ['Num :  91, Time : 218, Before :  1, After :  4', 'Num :  91, Time : 384, Before :  4, After : 16', 'Num :  91, Time : 803, Before : 16, After :  4', 'Num :  91, Time : 883, Before :  4, After : 19']
+92 : ['Num :  92, Time :   1, Before :  8, After :  3', 'Num :  92, Time : 316, Before :  3, After :  7', 'Num :  92, Time : 358, Before :  7, After :  3', 'Num :  92, Time : 638, Before :  3, After :  7', 'Num :  92, Time : 748, Before :  7, After : 12', 'Num :  92, Time : 791, Before : 12, After :  7']
+93 : ['Num :  93, Time :  84, Before : 10, After : 11', 'Num :  93, Time : 159, Before : 11, After :  6', 'Num :  93, Time : 302, Before :  6, After : 11', 'Num :  93, Time : 325, Before : 11, After :  6', 'Num :  93, Time : 371, Before :  6, After :  3', 'Num :  93, Time : 415, Before :  3, After :  6', 'Num :  93, Time : 497, Before :  6, After :  3', 'Num :  93, Time : 683, Before :  3, After :  6', 'Num :  93, Time : 699, Before :  6, After :  3', 'Num :  93, Time : 759, Before :  3, After :  6', 'Num :  93, Time : 825, Before :  6, After :  3']
+94 : ['Num :  94, Time :  10, Before :  8, After :  6', 'Num :  94, Time : 215, Before :  6, After : 13', 'Num :  94, Time : 234, Before : 13, After : 15', 'Num :  94, Time : 537, Before : 15, After : 12', 'Num :  94, Time : 798, Before : 12, After : 16']
+95 : ['Num :  95, Time : 108, Before : 10, After : 19', 'Num :  95, Time : 114, Before : 19, After : 10', 'Num :  95, Time : 385, Before : 10, After : 14', 'Num :  95, Time : 435, Before : 14, After : 10', 'Num :  95, Time : 526, Before : 10, After : 11', 'Num :  95, Time : 804, Before : 11, After : 19', 'Num :  95, Time : 854, Before : 19, After : 11']
+96 : ['Num :  96, Time :  94, Before : 12, After : 17', 'Num :  96, Time : 151, Before : 17, After : 12', 'Num :  96, Time : 436, Before : 12, After : 13', 'Num :  96, Time : 498, Before : 13, After : 12', 'Num :  96, Time : 686, Before : 12, After : 17', 'Num :  96, Time : 718, Before : 17, After : 13', 'Num :  96, Time : 823, Before : 13, After : 12']
+97 : ['Num :  97, Time : 230, Before : 10, After : 11', 'Num :  97, Time : 333, Before : 11, After : 16', 'Num :  97, Time : 362, Before : 16, After : 10']
+98 : ['Num :  98, Time :  58, Before :  1, After : 16', 'Num :  98, Time : 105, Before : 16, After :  1', 'Num :  98, Time : 407, Before :  1, After : 11', 'Num :  98, Time : 431, Before : 11, After :  1', 'Num :  98, Time : 490, Before :  1, After :  7', 'Num :  98, Time : 569, Before :  7, After :  5', 'Num :  98, Time : 609, Before :  5, After :  4', 'Num :  98, Time : 713, Before :  4, After :  5']
+99 : ['Num :  99, Time :   1, Before :  1, After : 16', 'Num :  99, Time : 367, Before : 16, After :  1', 'Num :  99, Time : 472, Before :  1, After : 16', 'Num :  99, Time : 526, Before : 16, After : 12', 'Num :  99, Time : 564, Before : 12, After :  1', 'Num :  99, Time : 629, Before :  1, After : 12', 'Num :  99, Time : 644, Before : 12, After :  1']
+100 : ['Num : 100, Time :   1, Before : 15, After : 19', 'Num : 100, Time :  31, Before : 19, After : 18', 'Num : 100, Time : 131, Before : 18, After : 19', 'Num : 100, Time : 595, Before : 19, After :  7', 'Num : 100, Time : 734, Before :  7, After : 18', 'Num : 100, Time : 819, Before : 18, After : 19']
