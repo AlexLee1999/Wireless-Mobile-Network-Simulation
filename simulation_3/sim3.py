@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import random
+from random import randint, uniform
 from math import sqrt, log10, pi, cos, sin
 
 
@@ -74,7 +74,7 @@ class Cluster():
     
     def gen_ue(self):
         for i in range(UE_NUM):
-            bs_num = random.randint(1, 19)
+            bs_num = randint(1, 19)
             bs = self._bs[bs_num - 1]
             ue = Ue(bs, self._ma, i+1)
             bs.add_ue(ue)
@@ -185,7 +185,7 @@ class Ue():
             self._time -= 1
     
     def change_bs(self, time, count, events):
-        max_sinr = -1 * math.inf
+        max_sinr = -1 * float('inf')
         max_bs = self._bs
         for cluster in ma.cluster:
             for bs in cluster.bs:
@@ -199,7 +199,7 @@ class Ue():
         self_inf = all_inf(self._ma, self.bs) - db_to_int(up_rxp(self_dis))
         self_sinr = Sinr(up_rxp(self_dis), self_inf)
         if max_sinr > self_sinr + 10:
-            print(f"Num : {self._num:3}, Time : {time:3}, Before : {self._bs.num:2}, After : {max_bs.num:2}, Before SINR : {self_sinr}, After SINR : {max_sinr}")
+            print(f"Num : {self._num:3}, Time : {time:3}, Before : {self._bs.num:2}, After : {max_bs.num:2}")
             events[f'{self._num}'].append(f"Num : {self._num:3}, Time : {time:3}, Before : {self._bs.num:2}, After : {max_bs.num:2}")
             self._bs.ue.remove(self)
             self._bs = max_bs
@@ -228,8 +228,8 @@ def all_inf(ma, Bs):
 
 def gen_loc():
     while True:
-        x = random.uniform(-1, 1)
-        y = random.uniform(-1, 1)
+        x = uniform(-1, 1)
+        y = uniform(-1, 1)
         if (y <= SQRT_3_div_2) and (y >= NEG_SQRT_3_div_2) and (SQRT_3 * x + y <= SQRT_3) and (SQRT_3 * x + y >= NEG_SQRT_3) and (NEG_SQRT_3 * x + y <= SQRT_3) and (NEG_SQRT_3 * x + y >= NEG_SQRT_3):
             return x * SCALE, y * SCALE
 
@@ -253,9 +253,9 @@ def db_to_int(n):
 
 
 def change_direction():
-    angle = random.uniform(0, 2 * pi)
-    speed = random.uniform(1, 15)
-    time = random.randint(1, 6)
+    angle = uniform(0, 2 * pi)
+    speed = uniform(1, 15)
+    time = randint(1, 6)
     return angle, speed, time
 
 
