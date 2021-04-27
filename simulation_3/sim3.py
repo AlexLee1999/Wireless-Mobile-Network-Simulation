@@ -24,14 +24,14 @@ SCALE = 250 / SQRT_3_div_2
 class Map():
     def __init__(self):
         self._cluster = []
-    
+
     def add_cluster(self, cluster):
         self._cluster.append(cluster)
 
     @property
     def cluster(self):
         return self._cluster
-    
+
     def plot_map(self):
         x = []
         y = []
@@ -49,7 +49,7 @@ class Map():
 
 
 class Cluster():
-    def __init__(self, loc_x, loc_y, ma):
+    def __init__(self, loc_x, loc_y, map):
         self._bs = []
         self._bs.append(Bs(0 + loc_x, 0 + loc_y, 10, self))
         self._bs.append(Bs(0 + loc_x, 500 + loc_y, 11, self))
@@ -70,13 +70,13 @@ class Cluster():
         self._bs.append(Bs(500 * NEG_SQRT_3 + loc_x, 0 + loc_y, 2, self))
         self._bs.append(Bs(500 * NEG_SQRT_3 + loc_x, 500 + loc_y, 3, self))
         self._bs.append(Bs(500 * NEG_SQRT_3 + loc_x, -500 + loc_y, 1, self))
-        self._ma = ma
-    
+        self._map = map
+
     def gen_ue(self):
         for i in range(UE_NUM):
             bs_num = randint(1, 19)
             bs = self._bs[bs_num - 1]
-            ue = Ue(bs, self._ma, i+1)
+            ue = Ue(bs, self._map, i+1)
             bs.add_ue(ue)
 
     @property
@@ -135,7 +135,7 @@ class Bs():
     @property
     def y(self):
         return self._loc_y
-    
+
     @property
     def num(self):
         return self._num
@@ -145,12 +145,12 @@ class Bs():
 
 
 class Ue():
-    def __init__(self, bs, ma, num):
+    def __init__(self, bs, map, num):
         self._x, self._y = gen_loc()
         self._x += bs.x
         self._y += bs.y
         self._bs = bs
-        self._ma = ma
+        self._map = map
         self.get_direction()
         self._num = num
 
@@ -166,47 +166,54 @@ class Ue():
     def bs(self):
         return self._bs
 
+    @property
+    def map(self):
+        return self._map
+
+    @property
+    def num(self):
+        return self._num
+
     def get_direction(self):
-        self._angle, self._speed, self._time = change_direction() 
-    
+        self._angle, self._speed, self._time = change_direction()
+
     def update_loc(self):
         if self._time == 0:
             self.get_direction()
-            x_speed = self._speed * cos(self._angle) 
+            x_speed = self._speed * cos(self._angle)
             y_speed = self._speed * sin(self._angle)
             self._x += x_speed
             self._y += y_speed
             self._time -= 1
         else:
-            x_speed = self._speed * cos(self._angle) 
+            x_speed = self._speed * cos(self._angle)
             y_speed = self._speed * sin(self._angle)
             self._x += x_speed
             self._y += y_speed
             self._time -= 1
-    
+
     def change_bs(self, time, count, events):
         max_sinr = -1 * float('inf')
-        max_bs = self._bs
+        max_bs = self.bs
         for cluster in ma.cluster:
             for bs in cluster.bs:
                 dis = sqrt((self.x - bs.x) ** 2 + (self.y - bs.y) ** 2)
-                inf = all_inf(self._ma, bs) - db_to_int(up_rxp(dis))
+                inf = all_inf(self.map, bs) - db_to_int(up_rxp(dis))
                 sinr = Sinr(up_rxp(dis), inf)
                 if sinr > max_sinr:
                     max_sinr = sinr
                     max_bs = bs
         self_dis = sqrt((self.x - self.bs.x) ** 2 + (self.y - self.bs.y) ** 2)
-        self_inf = all_inf(self._ma, self.bs) - db_to_int(up_rxp(self_dis))
+        self_inf = all_inf(self.map, self.bs) - db_to_int(up_rxp(self_dis))
         self_sinr = Sinr(up_rxp(self_dis), self_inf)
-        if max_sinr > self_sinr + 10:
-            print(f"Num : {self._num:3}, Time : {time:3}, Before : {self._bs.num:2}, After : {max_bs.num:2}")
-            events[f'{self._num}'].append(f"Num : {self._num:3}, Time : {time:3}, Before : {self._bs.num:2}, After : {max_bs.num:2}")
+        if max_sinr > self_sinr + 3:
+            print(f"Num : {self.num:3}, Time : {time:3}, Before : {self.bs.num:2}, After : {max_bs.num:2}")
+            events[f'{self.num}'].append(f"Num : {self.num:3}, Time : {time:3}, Before : {self.bs.num:2}, After : {max_bs.num:2}")
             self._bs.ue.remove(self)
             self._bs = max_bs
             self._bs.add_ue(self)
             count += 1
         return count
-
 
 
 def Sinr(power_db, inf):
@@ -216,15 +223,15 @@ def Sinr(power_db, inf):
     return 10 * log10(s)
 
 
-
-def all_inf(ma, Bs):
+def all_inf(map, Bs):
     inf = 0
-    for cluster in ma.cluster:
+    for cluster in map.cluster:
         for bs in cluster.bs:
             for ues in bs.ue:
                 dis = sqrt((ues.x - Bs.x) ** 2 + (ues.y - Bs.y) ** 2)
                 inf += db_to_int(up_rxp(dis))
     return inf
+
 
 def gen_loc():
     while True:
@@ -283,4 +290,6 @@ if __name__ == "__main__":
                     count = ue.change_bs(time, count, Handoff_events)
     print(f"Total handoff {count} times.")
     for i in range(UE_NUM):
-        print(f"{i + 1} : {Handoff_events[f'{i+1}']}")
+        print(f"{i + 1}")
+        for events in Handoff_events[f'{i + 1}']:
+            print(f"{events}")
