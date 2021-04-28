@@ -20,7 +20,6 @@ NEG_SQRT_3_div_2 = (-1) * (sqrt(3) / 2)
 UE_NUM = 100
 SCALE = 250 / SQRT_3_div_2
 THRESHOLD = 1500
-DELTA_TIME = 0.1
 
 
 class Map():
@@ -200,15 +199,15 @@ class Ue():
             self.get_direction()
             x_speed = self._speed * cos(self._angle)
             y_speed = self._speed * sin(self._angle)
-            self._x += x_speed * DELTA_TIME
-            self._y += y_speed * DELTA_TIME
-            self._time -= DELTA_TIME
+            self._x += x_speed
+            self._y += y_speed
+            self._time -= 1
         else:
             x_speed = self._speed * cos(self._angle)
             y_speed = self._speed * sin(self._angle)
-            self._x += x_speed * DELTA_TIME
-            self._y += y_speed * DELTA_TIME
-            self._time -= DELTA_TIME
+            self._x += x_speed
+            self._y += y_speed
+            self._time -= 1
 
     def change_bs(self, time, count, events):
         max_sinr = -1 * float('inf')
@@ -302,14 +301,12 @@ if __name__ == "__main__":
     Handoff_events = {}
     for i in range(UE_NUM):
         Handoff_events[f'{i + 1}'] = []
-    time = 0
-    while time <= 900:
+    for time in range(1, 901):
         for cluster in ma.cluster:
             for bs in cluster.bs:
                 for ue in bs.ue:
                     ue.update_loc()
                     count = ue.change_bs(time, count, Handoff_events)
-        time += DELTA_TIME
     print(f"Total handoff {count} times.")
     for i in range(UE_NUM):
         print(f"{i + 1}")
