@@ -19,6 +19,7 @@ NEG_SQRT_3 = (-1) * sqrt(3)
 NEG_SQRT_3_div_2 = (-1) * (sqrt(3) / 2)
 UE_NUM = 100
 SCALE = 250 / SQRT_3_div_2
+THRESHOLD = 1000
 
 
 class Map():
@@ -49,8 +50,9 @@ class Map():
 
 
 class Cluster():
-    def __init__(self, loc_x, loc_y, map):
+    def __init__(self, loc_x, loc_y, ma):
         self._bs = []
+        self._map = ma
         self._bs.append(Bs(0 + loc_x, 0 + loc_y, 10, self))
         self._bs.append(Bs(0 + loc_x, 500 + loc_y, 11, self))
         self._bs.append(Bs(0 + loc_x, 1000 + loc_y, 12, self))
@@ -70,7 +72,7 @@ class Cluster():
         self._bs.append(Bs(500 * NEG_SQRT_3 + loc_x, 0 + loc_y, 2, self))
         self._bs.append(Bs(500 * NEG_SQRT_3 + loc_x, 500 + loc_y, 3, self))
         self._bs.append(Bs(500 * NEG_SQRT_3 + loc_x, -500 + loc_y, 1, self))
-        self._map = map
+        
 
     def gen_ue(self):
         for i in range(UE_NUM):
@@ -82,6 +84,10 @@ class Cluster():
     @property
     def bs(self):
         return self._bs
+
+    @property
+    def map(self):
+        return self._map
 
     def plot_map(self):
         x = []
@@ -123,6 +129,8 @@ class Bs():
         self._num = num
         self._ue = []
         self._cluster = cluster
+        self._adj = []
+        self._map = self._cluster.map
 
     @property
     def ue(self):
@@ -140,8 +148,18 @@ class Bs():
     def num(self):
         return self._num
 
+    @property
+    def adj(self):
+        return self._adj
+
     def add_ue(self, ue):
         self._ue.append(ue)
+
+    def add_adj(self):
+        for cluster in self._map.cluster:
+            for bs in cluster.bs:
+                if sqrt((bs.x - self._loc_x) ** 2 + (bs.y - self._loc_y) ** 2) <= THRESHOLD:
+                    self._adj.append(bs)
 
 
 class Ue():
@@ -195,18 +213,17 @@ class Ue():
     def change_bs(self, time, count, events):
         max_sinr = -1 * float('inf')
         max_bs = self.bs
-        for cluster in ma.cluster:
-            for bs in cluster.bs:
-                dis = sqrt((self.x - bs.x) ** 2 + (self.y - bs.y) ** 2)
-                inf = all_inf(self.map, bs) - db_to_int(up_rxp(dis))
-                sinr = Sinr(up_rxp(dis), inf)
-                if sinr > max_sinr:
-                    max_sinr = sinr
-                    max_bs = bs
+        for bs in self.bs.adj:
+            dis = sqrt((self.x - bs.x) ** 2 + (self.y - bs.y) ** 2)
+            inf = all_inf(self.map, bs) - db_to_int(up_rxp(dis))
+            sinr = Sinr(up_rxp(dis), inf)
+            if sinr > max_sinr:
+                max_sinr = sinr
+                max_bs = bs
         self_dis = sqrt((self.x - self.bs.x) ** 2 + (self.y - self.bs.y) ** 2)
         self_inf = all_inf(self.map, self.bs) - db_to_int(up_rxp(self_dis))
         self_sinr = Sinr(up_rxp(self_dis), self_inf)
-        if max_sinr > self_sinr + 3:
+        if max_sinr > self_sinr + 5:
             print(f"Num : {self.num:3}, Time : {time:3}, Before : {self.bs.num:2}, After : {max_bs.num:2}")
             events[f'{self.num}'].append(f"Num : {self.num:3}, Time : {time:3}, Before : {self.bs.num:2}, After : {max_bs.num:2}")
             self._bs.ue.remove(self)
@@ -275,6 +292,9 @@ if __name__ == "__main__":
     ma.add_cluster(Cluster(-4.5 * SCALE, -1750, ma))
     ma.add_cluster(Cluster(3 * SCALE, -2000, ma))
     ma.add_cluster(Cluster(7.5 * SCALE, -250, ma))
+    for cluster in ma.cluster:
+        for bs in cluster.bs:
+            bs.add_adj()
     cc = ma.cluster[0]
     cc.gen_ue()
     cc.plot_map()
@@ -293,3 +313,4 @@ if __name__ == "__main__":
         print(f"{i + 1}")
         for events in Handoff_events[f'{i + 1}']:
             print(f"{events}")
+
