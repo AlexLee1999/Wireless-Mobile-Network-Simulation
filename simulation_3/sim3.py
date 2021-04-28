@@ -19,7 +19,7 @@ NEG_SQRT_3 = (-1) * sqrt(3)
 NEG_SQRT_3_div_2 = (-1) * (sqrt(3) / 2)
 UE_NUM = 100
 SCALE = 250 / SQRT_3_div_2
-THRESHOLD = 1000
+THRESHOLD = 1500
 
 
 class Map():
@@ -72,7 +72,6 @@ class Cluster():
         self._bs.append(Bs(500 * NEG_SQRT_3 + loc_x, 0 + loc_y, 2, self))
         self._bs.append(Bs(500 * NEG_SQRT_3 + loc_x, 500 + loc_y, 3, self))
         self._bs.append(Bs(500 * NEG_SQRT_3 + loc_x, -500 + loc_y, 1, self))
-        
 
     def gen_ue(self):
         for i in range(UE_NUM):
@@ -313,4 +312,3 @@ if __name__ == "__main__":
         print(f"{i + 1}")
         for events in Handoff_events[f'{i + 1}']:
             print(f"{events}")
-
