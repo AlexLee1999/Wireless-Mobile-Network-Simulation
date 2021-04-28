@@ -19,7 +19,7 @@ NEG_SQRT_3 = (-1) * sqrt(3)
 NEG_SQRT_3_div_2 = (-1) * (sqrt(3) / 2)
 UE_NUM = 100
 SCALE = 250 / SQRT_3_div_2
-THRESHOLD = 500
+THRESHOLD = 1500
 DELTA_TIME = 0.1
 
 
