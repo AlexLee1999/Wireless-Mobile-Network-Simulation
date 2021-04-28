@@ -301,7 +301,7 @@ if __name__ == "__main__":
     count = 0
     Handoff_events = {}
     for i in range(UE_NUM):
-        Handoff_events[f'{i+1}'] = []
+        Handoff_events[f'{i + 1}'] = []
     for time in range(1, 901):
         for cluster in ma.cluster:
             for bs in cluster.bs:
