@@ -1,6 +1,6 @@
 import pytest
 import os
-from ..simulation_1.sim1 import *
+from ..simulation_1 import *
 
 @pytest.mark.all
 def test_sim1_1():
